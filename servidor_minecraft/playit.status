@@ -1,371 +1,690 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1744860244079 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1744949181290 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744860248969 tunnel running, 1 tunnels registered
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949184388 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744860252045 tunnel running, 1 tunnels registered
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949187686 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744860255240 tunnel running, 1 tunnels registered
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949190954 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744860258367 tunnel running, 1 tunnels registered
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949194832 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744860261512 tunnel running, 1 tunnels registered
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949198072 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744860264665 tunnel running, 1 tunnels registered
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949201361 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744860267911 tunnel running, 1 tunnels registered
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949204452 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744860270996 tunnel running, 1 tunnels registered
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949207799 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1744860286256 tunnel running, 1 tunnels registered
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949211281 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744860289392 tunnel running, 1 tunnels registered
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949214677 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744860292581 tunnel running, 1 tunnels registered
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949218069 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744860295658 tunnel running, 1 tunnels registered
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949221260 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744860298719 tunnel running, 1 tunnels registered
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949224623 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1744860313840 tunnel running, 1 tunnels registered
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949227703 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744860316915 tunnel running, 1 tunnels registered
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949230894 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744860320000 tunnel running, 1 tunnels registered
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949234267 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744860323089 tunnel running, 1 tunnels registered
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949237529 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744860326190 tunnel running, 1 tunnels registered
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949240659 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744860329527 tunnel running, 1 tunnels registered
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949243758 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744860332612 tunnel running, 1 tunnels registered
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949246879 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744860335688 tunnel running, 1 tunnels registered
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949250305 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744860338778 tunnel running, 1 tunnels registered
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949253535 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744860341867 tunnel running, 1 tunnels registered
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949256620 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744860345823 tunnel running, 1 tunnels registered
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949259709 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744860348931 tunnel running, 1 tunnels registered
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949262944 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744860351998 tunnel running, 1 tunnels registered
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949266040 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744860355069 tunnel running, 1 tunnels registered
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949269138 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744860358162 tunnel running, 1 tunnels registered
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949272237 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744860361304 tunnel running, 1 tunnels registered
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949275450 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744860364503 tunnel running, 1 tunnels registered
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949278553 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744860367727 tunnel running, 1 tunnels registered
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949281836 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744860370802 tunnel running, 1 tunnels registered
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949284926 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744860374063 tunnel running, 1 tunnels registered
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949288508 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744860377562 tunnel running, 1 tunnels registered
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949291580 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744860380641 tunnel running, 1 tunnels registered
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949294719 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744860383827 tunnel running, 1 tunnels registered
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949297830 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744860386919 tunnel running, 1 tunnels registered
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949301365 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744860390011 tunnel running, 1 tunnels registered
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949304487 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744860393174 tunnel running, 1 tunnels registered
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949307675 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744860396395 tunnel running, 1 tunnels registered
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949311150 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744860399500 tunnel running, 1 tunnels registered
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949314299 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744860402580 tunnel running, 1 tunnels registered
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949317376 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744860405660 tunnel running, 1 tunnels registered
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949320806 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744860408745 tunnel running, 1 tunnels registered
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949324190 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744860411821 tunnel running, 1 tunnels registered
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949327263 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744860415150 tunnel running, 1 tunnels registered
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949330360 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744860418224 tunnel running, 1 tunnels registered
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949333732 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744860421288 tunnel running, 1 tunnels registered
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949337220 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744860424675 tunnel running, 1 tunnels registered
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949340616 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744860427840 tunnel running, 1 tunnels registered
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949344116 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744860430955 tunnel running, 1 tunnels registered
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949347201 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744860435450 tunnel running, 1 tunnels registered
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949350471 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744860438608 tunnel running, 1 tunnels registered
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949353861 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744860441756 tunnel running, 1 tunnels registered
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949357063 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744860444922 tunnel running, 1 tunnels registered
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949360147 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744860448131 tunnel running, 1 tunnels registered
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949363562 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744860451325 tunnel running, 1 tunnels registered
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949366857 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744860454439 tunnel running, 1 tunnels registered
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949370236 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744860457525 tunnel running, 1 tunnels registered
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949373605 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744860460599 tunnel running, 1 tunnels registered
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949376796 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744860463698 tunnel running, 1 tunnels registered
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949380643 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744860468031 tunnel running, 1 tunnels registered
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949383894 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744860471102 tunnel running, 1 tunnels registered
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949386995 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744860474448 tunnel running, 1 tunnels registered
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949390248 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744860477512 tunnel running, 1 tunnels registered
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949393346 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744860480756 tunnel running, 1 tunnels registered
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949396788 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744860484037 tunnel running, 1 tunnels registered
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949400151 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744860487139 tunnel running, 1 tunnels registered
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949403462 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744860490502 tunnel running, 1 tunnels registered
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949406725 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744860493598 tunnel running, 1 tunnels registered
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949410648 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744860496678 tunnel running, 1 tunnels registered
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949413730 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744860499878 tunnel running, 1 tunnels registered
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949417150 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949420279 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949423655 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949427014 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949430331 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949433429 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949436726 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949439887 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949443053 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949446303 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949449536 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949452823 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949455956 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949459040 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949462429 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949465503 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949468813 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949471988 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949475174 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949478255 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949481329 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949484452 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949487530 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949490610 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949494046 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949497321 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949500526 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949503623 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949506703 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949510070 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949513698 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949517124 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949520246 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949523479 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949526553 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949529961 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949533231 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949536318 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949539558 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949542886 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949545966 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949549261 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1744949552619 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+il-equality.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+with-anthony.gl.at.ply.gg:2957 => 127.0.0.1:2957 (proto: Udp, port count: 1)
