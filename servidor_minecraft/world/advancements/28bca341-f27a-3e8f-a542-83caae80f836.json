@@ -41,18 +41,6 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-18 03:51:15 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-18 03:51:15 +0000"
-    },
-    "done": false
-  },
   "betternether:root": {
     "criteria": {
       "welcome": "2025-04-18 03:46:53 +0000"
@@ -64,6 +52,48 @@
       "welcome": "2025-04-18 03:46:53 +0000"
     },
     "done": true
+  },
+  "incendium:technical/using/ragnarok": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-18 03:46:53 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/shield": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-18 03:46:53 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/scroll_of_returning": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-18 03:46:53 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/trailblazer": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-18 03:46:53 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:beach": "2025-04-18 03:46:53 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-18 03:51:15 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-18 03:51:15 +0000"
+    },
+    "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
@@ -107,21 +137,9 @@
     },
     "done": false
   },
-  "incendium:technical/using/ragnarok": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-18 03:46:53 +0000"
-    },
-    "done": false
-  },
   "incendium:technical/on_player_hurt": {
     "criteria": {
       "log_spam_fixer": "2025-04-18 03:51:15 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/using/shield": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-18 03:46:53 +0000"
     },
     "done": false
   },
@@ -134,24 +152,6 @@
   "incendium:technical/firestorm": {
     "criteria": {
       "log_spam_fixer": "2025-04-18 03:51:15 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/scroll_of_returning": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-18 03:46:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/using/trailblazer": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-18 03:46:53 +0000"
-    },
-    "done": false
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:beach": "2025-04-18 03:46:53 +0000"
     },
     "done": false
   },
