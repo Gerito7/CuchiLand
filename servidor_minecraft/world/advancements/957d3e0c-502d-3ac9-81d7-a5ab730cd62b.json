@@ -211,6 +211,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "cold_desert": "2025-04-19 00:57:01 +0000",
       "snowy_coniferous_forest": "2025-04-19 00:28:26 +0000"
     },
     "done": false
@@ -1625,9 +1626,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-04-19 00:59:38 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/pink_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-04-19 00:50:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-19 00:56:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-04-19 00:59:38 +0000"
     },
     "done": true
   },
@@ -1709,9 +1728,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2025-04-19 01:03:59 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/building_blocks/mossy_glowshroom_bookshelf": {
     "criteria": {
       "has_book": "2025-04-19 00:50:14 +0000"
+    },
+    "done": true
+  },
+  "mcwstairs:recipes/stone": {
+    "criteria": {
+      "has_planks": "2025-04-19 01:03:59 +0000"
     },
     "done": true
   },
@@ -1721,9 +1752,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-04-19 01:03:59 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/crimson_bookshelf": {
     "criteria": {
       "has_book": "2025-04-19 00:50:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2025-04-19 01:03:59 +0000"
     },
     "done": true
   },
@@ -1733,9 +1776,27 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/cobblestone": {
+    "criteria": {
+      "has_planks": "2025-04-19 01:03:59 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/punch_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-04-19 00:50:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2025-04-19 01:03:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-19 00:57:59 +0000"
     },
     "done": true
   },
@@ -1745,15 +1806,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-04-19 00:56:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2025-04-19 00:50:14 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-04-19 01:03:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2025-04-19 01:03:59 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/spruce_chest": {
     "criteria": {
       "has_spruce_plank": "2025-04-19 00:50:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-04-19 01:03:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-04-19 00:59:38 +0000"
     },
     "done": true
   },
@@ -1805,6 +1896,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_onion": "2025-04-19 00:56:33 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/needle_and_thread": {
+    "criteria": {
+      "has_item": "2025-04-19 00:59:38 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/cyan_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-04-19 00:50:34 +0000"
@@ -1847,6 +1950,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-04-19 00:59:38 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/cobblestone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-04-19 01:03:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-04-19 00:56:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-04-19 01:06:02 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/lure_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-04-19 00:50:14 +0000"
@@ -1859,9 +1986,45 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-19 00:56:33 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/warped_bookshelf": {
     "criteria": {
       "has_book": "2025-04-19 00:50:14 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_cobblestone_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-19 01:03:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-04-19 00:57:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:spider": "2025-04-19 00:59:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-04-19 01:00:09 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/cobblestone": {
+    "criteria": {
+      "has_wood": "2025-04-19 01:03:59 +0000"
     },
     "done": true
   },
@@ -1870,6 +2033,12 @@
       "bread": "2025-04-19 00:52:02 +0000"
     },
     "done": false
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-19 00:56:33 +0000"
+    },
+    "done": true
   },
   "betterend:recipes/misc/silk_touch_book": {
     "criteria": {
@@ -1901,15 +2070,39 @@
     },
     "done": true
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-04-19 01:03:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2025-04-19 01:03:59 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/piercing_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-04-19 00:50:14 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-04-19 00:56:34 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/impaling_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-04-19 00:50:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "onion": "2025-04-19 00:56:33 +0000"
     },
     "done": true
   },
@@ -1925,9 +2118,34 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-04-19 01:03:59 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/orange_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-04-19 00:50:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:spider": "2025-04-19 00:59:35 +0000",
+      "minecraft:zombie": "2025-04-19 01:00:23 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/misc/ghost_chest": {
+    "criteria": {
+      "has_item": "2025-04-19 01:00:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2025-04-19 01:03:59 +0000"
     },
     "done": true
   },
@@ -1979,9 +2197,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-04-19 01:03:59 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/building_blocks/pythadendron_bookshelf": {
     "criteria": {
       "has_book": "2025-04-19 00:50:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-19 00:56:33 +0000"
     },
     "done": true
   },
@@ -1997,6 +2227,18 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/bridge_lantern": {
+    "criteria": {
+      "has_planks": "2025-04-19 00:56:28 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/building_blocks/headstones": {
+    "criteria": {
+      "has_ingredients": "2025-04-19 01:03:59 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/knockback_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-04-19 00:50:14 +0000"
@@ -2006,6 +2248,12 @@
   "betternether:recipes/building_blocks/stalagnate_bookshelf": {
     "criteria": {
       "has_book": "2025-04-19 00:50:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_string": "2025-04-19 00:59:38 +0000"
     },
     "done": true
   },
@@ -2039,9 +2287,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-04-19 01:03:59 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/building_blocks/lucernia_bookshelf": {
     "criteria": {
       "has_book": "2025-04-19 00:50:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-19 00:56:33 +0000"
     },
     "done": true
   },
@@ -2081,6 +2341,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-04-19 00:56:34 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/spruce/spruce_blossom_trapdoor": {
     "criteria": {
       "has_plankss": "2025-04-19 00:50:34 +0000"
@@ -2102,6 +2368,12 @@
   "mcwroofs:recipes/spruce_planks": {
     "criteria": {
       "has_planks": "2025-04-19 00:50:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-04-19 00:59:38 +0000"
     },
     "done": true
   },
@@ -2141,6 +2413,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-04-19 00:56:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2025-04-19 00:50:34 +0000"
@@ -2150,6 +2428,12 @@
   "betterend:recipes/misc/soul_speed_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-04-19 00:50:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-19 00:56:33 +0000"
     },
     "done": true
   },
@@ -2168,6 +2452,18 @@
   "betternether:recipes/combat/shield": {
     "criteria": {
       "has_tag_minecraft_planks": "2025-04-19 00:50:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2025-04-19 01:06:02 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/cobblestone_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-19 01:03:59 +0000"
     },
     "done": true
   },
@@ -2198,6 +2494,12 @@
   "mcwbridges:recipes/spruce_log_bridge_middle": {
     "criteria": {
       "has_planks": "2025-04-19 00:50:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-19 00:56:34 +0000"
     },
     "done": true
   },
@@ -2237,9 +2539,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-04-19 00:59:38 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/cobblestone_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-04-19 01:03:59 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/power_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-04-19 00:50:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/graveyard_soil": {
+    "criteria": {
+      "has_item": "2025-04-19 01:00:09 +0000"
     },
     "done": true
   },
@@ -2255,6 +2575,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-04-19 01:03:59 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/nether_sakura_bookshelf": {
     "criteria": {
       "has_book": "2025-04-19 00:50:14 +0000"
@@ -2267,9 +2593,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-04-19 01:03:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-04-19 00:50:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2025-04-19 00:56:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-04-19 00:59:38 +0000"
     },
     "done": true
   },
@@ -2282,6 +2626,12 @@
   "betterend:recipes/misc/multishot_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-04-19 00:50:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-04-19 00:56:34 +0000"
     },
     "done": true
   },

@@ -419,3 +419,55 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [00:56:07] [Server thread/INFO]: literal{Gulshen}[style={}] has been infected
 [00:56:08] [Server thread/INFO]: Villager VillagerEntityMCA['Gulshen'/8619, l='ServerLevel[world]', x=-4021.54, y=113.18, z=2719.82] died, message: 'Gulshen was slain by Zombie'
 [00:56:08] [Server thread/INFO]: Named entity VillagerEntityMCA['Gulshen'/8619, l='ServerLevel[world]', x=-4021.54, y=113.18, z=2719.82] died: Gulshen was slain by Zombie
+[00:56:33] [Server thread/INFO]: Polarrr_ has made the advancement [Crops of the Wild]
+[00:57:09] [Server thread/INFO]: [Not Secure] <Polarrr_> che no se de donde verga sacar xp
+[00:57:14] [Server thread/INFO]: [Not Secure] <ramaasdas> yo tampoco
+[00:57:22] [Server thread/INFO]: [Not Secure] <ramaasdas> pica carbon
+[00:57:25] [Server thread/INFO]: [Not Secure] <ramaasdas> me dio una banda
+[00:57:29] [Server thread/INFO]: Polarrr_ was shot by Skeleton
+[00:57:42] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of Polarrr_ accepted server config.
+[00:57:56] [Server thread/INFO]: [Not Secure] <Polarrr_> apa
+[00:57:58] [Server thread/INFO]: [Not Secure] <ramaasdas> subi
+[00:58:01] [Server thread/INFO]: [Not Secure] <ramaasdas> nivel 8
+[00:58:07] [Server thread/INFO]: Polarrr_ claimed a grave belonging to Polarrr_ at -4044, 104, 2682, minecraft:overworld
+[00:58:17] [Server thread/INFO]: [Not Secure] <ramaasdas> amigo
+[00:58:19] [Server thread/INFO]: [Not Secure] <ramaasdas> agriculura 2
+[00:58:22] [Server thread/INFO]: [Not Secure] <ramaasdas> me voy a morir de hamnbre
+[00:58:38] [Server thread/INFO]: [Not Secure] <Polarrr_> AJAJAJAJAJAJJA
+[00:59:06] [Server thread/INFO]: Villager VillagerEntityMCA['Aydin'/10562, l='ServerLevel[world]', x=-4007.30, y=142.00, z=2716.50] died, message: 'Aydin was slain by Ghost'
+[00:59:06] [Server thread/INFO]: Named entity VillagerEntityMCA['Aydin'/10562, l='ServerLevel[world]', x=-4007.30, y=142.00, z=2716.50] died: Aydin was slain by Ghost
+[00:59:08] [Server thread/INFO]: ramaasdas has made the advancement [When in Rome]
+[00:59:31] [Server thread/INFO]: [Polarrr_: Applied effect Strength to Polarrr_]
+[00:59:35] [Server thread/INFO]: Polarrr_ has made the advancement [Monster Hunter]
+[01:00:06] [Server thread/INFO]: [Not Secure] <ramaasdas> AMIGOI
+[01:00:07] [Server thread/INFO]: [Not Secure] <ramaasdas> Q
+[01:00:08] [Server thread/INFO]: [Polarrr_: Applied effect Strength to Polarrr_]
+[01:00:08] [Server thread/INFO]: [Not Secure] <ramaasdas> TTQTQT
+[01:00:09] [Server thread/INFO]: Polarrr_ has made the advancement [Who You Gonna Call?]
+[01:00:09] [Server thread/INFO]: [Not Secure] <ramaasdas> QTTQTQ
+[01:00:12] [Server thread/INFO]: [Not Secure] <ramaasdas> Q ESTOY VIENDO
+[01:00:21] [Server thread/INFO]: [Not Secure] <ramaasdas> amigo
+[01:00:23] [Server thread/INFO]: [Not Secure] <ramaasdas> UN DINOSAURIO
+[01:00:24] [Server thread/INFO]: Polarrr_ was slain by Zombie
+[01:00:25] [Netty Epoll Server IO #6/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[01:00:25] [Netty Epoll Server IO #6/ERROR]: Combo count: 3 is dual wielding: false
+[01:00:25] [Netty Epoll Server IO #6/ERROR]: Main-hand stack: 0 air
+[01:00:25] [Netty Epoll Server IO #6/ERROR]: Off-hand stack: 0 air
+[01:00:25] [Netty Epoll Server IO #6/ERROR]: Selected slot server: 0 | client: 0
+[01:00:25] [Server thread/INFO]: [Not Secure] <ramaasdas> ME ESTA SIGIENDO
+[01:00:26] [Server thread/INFO]: [Not Secure] <ramaasdas> QQQTTQTQ
+[01:00:27] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of Polarrr_ accepted server config.
+[01:00:28] [Server thread/INFO]: [Not Secure] <Polarrr_> AJAJAJAJA
+[01:00:29] [Server thread/INFO]: Named entity ZombieVillagerEntityMCA['Bogdanka'/11912, l='ServerLevel[world]', x=-4013.55, y=82.00, z=2611.63] died: Bogdanka burned to death
+[01:00:33] [Server thread/INFO]: [Not Secure] <Polarrr_> AMIGO ESTA LLENO DE GORDOS
+[01:00:54] [Server thread/INFO]: Polarrr_ claimed a grave belonging to Polarrr_ at -3981, 110, 2656, minecraft:overworld
+[01:00:56] [Server thread/INFO]: ramaasdas hit the ground too hard
+[01:00:57] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of ramaasdas accepted server config.
+[01:01:04] [Server thread/INFO]: [Not Secure] <ramaasdas> YO DESPUES JKIUEGO
+[01:01:05] [Server thread/INFO]: ramaasdas lost connection: Disconnected
+[01:01:05] [Server thread/INFO]: ramaasdas left the game
+[01:01:05] [Server thread/INFO]: Updating all forceload tickets for 06984dca-9540-39e0-8e5b-070d73d006a8
+[01:01:05] [Server thread/INFO]: [voicechat] Disconnecting client ramaasdas
+[01:02:09] [Server thread/INFO]: [Polarrr_: Gave 64 [Bottle o' Enchanting] to Polarrr_]
+[01:03:59] [Server thread/INFO]: Polarrr_ has made the advancement [Stone Age]
+[01:06:02] [Server thread/INFO]: Polarrr_ has made the advancement [Getting an Upgrade]

@@ -2406,9 +2406,87 @@
     },
     "done": false
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-19 01:01:03 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-19 01:01:03 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-19 01:01:03 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-19 01:01:03 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-19 01:01:03 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-19 01:01:03 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-19 01:01:03 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-19 01:01:03 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-19 01:01:03 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-19 01:01:03 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-19 01:01:03 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-19 01:01:03 +0000"
+    },
+    "done": false
+  },
   "betternether:recipes/transportation/mushroom_fir_chest_boat": {
     "criteria": {
       "has_tag_c_chest": "2025-04-19 00:44:07 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/andesite_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-04-19 00:56:34 +0000"
     },
     "done": true
   },
@@ -2670,6 +2748,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/andesite_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-19 00:56:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2025-04-19 00:52:46 +0000"
@@ -2775,6 +2859,12 @@
   "betternether:recipes/building_blocks/crimson_bookshelf": {
     "criteria": {
       "has_book": "2025-04-19 00:46:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-19 00:56:34 +0000"
     },
     "done": true
   },
@@ -3018,6 +3108,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-19 00:56:34 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/birch_chest": {
     "criteria": {
       "has_birch_plank": "2025-04-19 00:43:50 +0000"
@@ -3090,6 +3186,12 @@
     },
     "done": true
   },
+  "mcwpaths:recipes/andesite": {
+    "criteria": {
+      "has_wood": "2025-04-19 00:56:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-04-19 00:45:01 +0000"
@@ -3149,6 +3251,12 @@
       "has_sand": "2025-04-19 00:54:26 +0000"
     },
     "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-04-19 00:59:08 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
@@ -3276,6 +3384,12 @@
     },
     "done": true
   },
+  "mcwstairs:recipes/andesite": {
+    "criteria": {
+      "has_planks": "2025-04-19 00:56:34 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/transportation/stalagnate_chest_boat": {
     "criteria": {
       "has_tag_c_chest": "2025-04-19 00:44:07 +0000"
@@ -3324,6 +3438,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-04-19 00:56:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_sand": "2025-04-19 00:54:26 +0000"
@@ -3360,9 +3480,21 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/balustrade_andesite_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-19 00:56:34 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/swift_sneak_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-04-19 00:46:56 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/andesite": {
+    "criteria": {
+      "has_planks": "2025-04-19 00:56:34 +0000"
     },
     "done": true
   },
@@ -3498,6 +3630,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-19 00:56:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-04-19 00:45:01 +0000"
@@ -3513,6 +3651,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-04-19 00:43:54 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-04-19 00:59:08 +0000"
     },
     "done": true
   },
@@ -3828,6 +3972,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-19 00:56:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2025-04-19 00:43:48 +0000"
@@ -3837,6 +3987,12 @@
   "betterend:recipes/misc/projectile_protection_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-04-19 00:46:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-19 00:56:34 +0000"
     },
     "done": true
   },
@@ -3930,6 +4086,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-19 00:56:34 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/birch_barrel": {
     "criteria": {
       "has_birch_plank": "2025-04-19 00:43:50 +0000"
@@ -3945,6 +4107,12 @@
   "betterend:recipes/misc/unbreaking_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-04-19 00:46:56 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/andesite": {
+    "criteria": {
+      "has_wood": "2025-04-19 00:56:34 +0000"
     },
     "done": true
   },
@@ -3993,6 +4161,12 @@
   "betterend:recipes/building_blocks/jellyshroom_bookshelf": {
     "criteria": {
       "has_book": "2025-04-19 00:46:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2025-04-19 00:56:34 +0000"
     },
     "done": true
   },
@@ -4053,6 +4227,18 @@
   "mcwroofs:recipes/concrete": {
     "criteria": {
       "has_planks": "2025-04-19 00:54:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-04-19 00:56:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2025-04-19 00:56:34 +0000"
     },
     "done": true
   },
@@ -4143,6 +4329,12 @@
   "betterend:recipes/misc/copy_leather_handle_attachment": {
     "criteria": {
       "has_diamond": "2025-04-19 00:43:54 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/andesite_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-04-19 00:56:34 +0000"
     },
     "done": true
   },
