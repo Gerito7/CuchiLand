@@ -2244,6 +2244,7 @@
     "criteria": {
       "cooked_mutton": "2025-04-19 02:34:16 +0000",
       "porkchop": "2025-04-18 04:02:02 +0000",
+      "cooked_cod": "2025-04-19 02:37:51 +0000",
       "rotten_flesh": "2025-04-19 02:18:59 +0000",
       "cod": "2025-04-19 02:27:00 +0000"
     },
@@ -4742,6 +4743,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/bridge_torch": {
+    "criteria": {
+      "has_planks": "2025-04-19 02:40:50 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/mcfur/biomesoplenty/redwood_wardrobe": {
     "criteria": {
       "has_item": "2025-04-19 02:23:28 +0000"
@@ -5373,6 +5380,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/purple_dye_from_tall_lavender": {
+    "criteria": {
+      "has_tall_lavender": "2025-04-19 02:43:05 +0000"
+    },
+    "done": true
+  },
   "mcwfurnitures:recipes/birch": {
     "criteria": {
       "has_wood": "2025-04-19 02:20:43 +0000"
@@ -5436,6 +5449,12 @@
   "everycomp:recipes/decorations/mcfur/biomesoplenty/stripped_redwood_triple_drawer": {
     "criteria": {
       "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/whispering_gourd_lantern": {
+    "criteria": {
+      "has_torch": "2025-04-19 02:40:50 +0000"
     },
     "done": true
   },
