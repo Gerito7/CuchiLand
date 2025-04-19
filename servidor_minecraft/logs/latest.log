@@ -471,3 +471,78 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [01:02:09] [Server thread/INFO]: [Polarrr_: Gave 64 [Bottle o' Enchanting] to Polarrr_]
 [01:03:59] [Server thread/INFO]: Polarrr_ has made the advancement [Stone Age]
 [01:06:02] [Server thread/INFO]: Polarrr_ has made the advancement [Getting an Upgrade]
+[01:08:03] [Server thread/INFO]: [Polarrr_: Gave 1 [Orb of Origin] to Polarrr_]
+[01:11:21] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 957d3e0c-502d-3ac9-81d7-a5ab730cd62b timed out
+[01:11:21] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Polarrr_
+[01:11:21] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Polarrr_
+[01:11:30] [Server thread/INFO]: Polarrr_ lost connection: Timed out
+[01:11:30] [Server thread/INFO]: Polarrr_ left the game
+[01:11:30] [Server thread/INFO]: Updating all forceload tickets for 957d3e0c-502d-3ac9-81d7-a5ab730cd62b
+[01:11:30] [Server thread/INFO]: [voicechat] Disconnecting client Polarrr_
+[01:15:16] [Server thread/INFO]: Titu[/127.189.205.186:47207] logged in with entity id 13918 at (-8.830747850037822, 60.40806914656656, 90.67152576892332)
+[01:15:16] [Server thread/INFO]: Syncing config to Titu (8130d461-ea5b-33f5-816e-9c7ded89800e)
+[01:15:16] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[01:15:16] [Server thread/INFO]: Titu joined the game
+[01:15:16] [Server thread/INFO]: Sending common config 'fallingtrees:fallingtrees_common' to Titu
+[01:15:16] [Server thread/INFO]: Updating all forceload tickets for 8130d461-ea5b-33f5-816e-9c7ded89800e
+[01:15:16] [Server thread/INFO]: Replacing apoli:replaced_loot_table with null
+[01:15:18] [Netty Epoll Server IO #2/INFO]: Received client config 'fallingtrees:fallingtrees_client' from Titu
+[01:15:18] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[01:15:18] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[01:15:18] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[01:15:18] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[01:15:18] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[01:15:18] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[01:15:18] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[01:15:18] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[01:15:18] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[01:15:18] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[01:15:18] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[01:15:18] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[01:15:18] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[01:15:18] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[01:15:18] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[01:15:18] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[01:15:18] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[01:15:18] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/CuchiLand/servidor_minecraft/bclib-sync (allowDelete=true)
+[01:15:18] [Server thread/INFO]: [voicechat] Received secret request of Titu (18)
+[01:15:18] [Server thread/INFO]: [voicechat] Sent secret to Titu
+[01:15:18] [Netty Epoll Server IO #2/INFO]: Priority overwritten for player Titu. Claiming: GRAVE / Robbing: INVENTORY
+[01:15:19] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Titu accepted server config.
+[01:15:23] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 8130d461-ea5b-33f5-816e-9c7ded89800e
+[01:15:24] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 8130d461-ea5b-33f5-816e-9c7ded89800e
+[01:15:24] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Titu (8130d461-ea5b-33f5-816e-9c7ded89800e) successfully connected to voice chat
+[01:15:49] [Server thread/INFO]: Polarrr_[/127.55.245.64:33313] logged in with entity id 14148 at (-3993.055109335459, 102.0, 2702.9985937230726)
+[01:15:49] [Server thread/INFO]: Syncing config to Polarrr_ (957d3e0c-502d-3ac9-81d7-a5ab730cd62b)
+[01:15:49] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[01:15:49] [Server thread/INFO]: Polarrr_ joined the game
+[01:15:49] [Server thread/INFO]: Sending common config 'fallingtrees:fallingtrees_common' to Polarrr_
+[01:15:49] [Server thread/INFO]: Updating all forceload tickets for 957d3e0c-502d-3ac9-81d7-a5ab730cd62b
+[01:15:49] [Server thread/INFO]: Replacing apoli:replaced_loot_table with null
+[01:16:02] [Netty Epoll Server IO #3/INFO]: Received client config 'fallingtrees:fallingtrees_client' from Polarrr_
+[01:16:02] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[01:16:02] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[01:16:02] [Netty Epoll Server IO #3/INFO]: Priority overwritten for player Polarrr_. Claiming: GRAVE / Robbing: INVENTORY
+[01:16:02] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[01:16:02] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[01:16:02] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[01:16:02] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[01:16:02] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[01:16:02] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[01:16:02] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[01:16:02] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[01:16:02] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[01:16:02] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[01:16:02] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[01:16:02] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[01:16:02] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[01:16:02] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[01:16:02] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[01:16:02] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/CuchiLand/servidor_minecraft/bclib-sync (allowDelete=true)
+[01:16:02] [Server thread/INFO]: [voicechat] Received secret request of Polarrr_ (18)
+[01:16:02] [Server thread/INFO]: [voicechat] Sent secret to Polarrr_
+[01:16:08] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Polarrr_ accepted server config.
+[01:16:19] [Server thread/INFO]: Polarrr_ lost connection: Timed out
+[01:16:19] [Server thread/INFO]: Polarrr_ left the game
+[01:16:19] [Server thread/INFO]: Updating all forceload tickets for 957d3e0c-502d-3ac9-81d7-a5ab730cd62b
+[01:16:19] [Server thread/INFO]: [voicechat] Disconnecting client Polarrr_
