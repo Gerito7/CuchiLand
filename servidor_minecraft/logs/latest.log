@@ -122,3 +122,23 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [00:11:52] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 957d3e0c-502d-3ac9-81d7-a5ab730cd62b
 [00:11:53] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 957d3e0c-502d-3ac9-81d7-a5ab730cd62b
 [00:11:53] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Polarrr_ (957d3e0c-502d-3ac9-81d7-a5ab730cd62b) successfully connected to voice chat
+[00:16:55] [Server thread/INFO]: Player literal{Polarrr_} chose Origin: origins-plus-plus:rift_mage, for layer: origins:origin
+[00:18:03] [Server thread/INFO]: Player literal{Polarrr_} chose Origin: origins-classes:miner, for layer: origins-classes:class
+[00:18:29] [Server thread/INFO]: Polarrr_ was slain by Zombie
+[00:18:29] [Server thread/INFO]: Did not backup data (grave data empty)
+[00:19:12] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of Polarrr_ accepted server config.
+[00:19:20] [Server thread/INFO]: Polarrr_ was slain by Zombie
+[00:19:20] [Server thread/INFO]: Did not backup data (grave data empty)
+[00:19:32] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of Polarrr_ accepted server config.
+[00:19:37] [Server thread/INFO]: Polarrr_ was blown up by Creeper
+[00:19:37] [Server thread/INFO]: Did not backup data (grave data empty)
+[00:19:42] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of Polarrr_ accepted server config.
+[00:19:56] [Server thread/INFO]: Polarrr_ was slain by Zombie
+[00:19:56] [Server thread/INFO]: Did not backup data (grave data empty)
+[00:20:00] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of Polarrr_ accepted server config.
+[00:20:18] [Server thread/INFO]: Polarrr_ was slain by Zombie
+[00:20:18] [Server thread/INFO]: Did not backup data (grave data empty)
+[00:21:14] [Server thread/INFO]: Set the time to 1000
+[00:21:18] [Server thread/INFO]: Made Polarrr_ a server operator
+[00:21:20] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of Polarrr_ accepted server config.
+[00:21:35] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of Polarrr_ accepted server config.
