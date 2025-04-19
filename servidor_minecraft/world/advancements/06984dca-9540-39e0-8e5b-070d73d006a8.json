@@ -79,6 +79,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:birch_forest": "2025-04-19 02:17:40 +0000",
       "minecraft:beach": "2025-04-18 03:43:51 +0000",
       "minecraft:river": "2025-04-19 00:52:07 +0000",
       "minecraft:forest": "2025-04-19 02:13:55 +0000",
@@ -2240,7 +2241,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "porkchop": "2025-04-18 04:02:02 +0000"
+      "porkchop": "2025-04-18 04:02:02 +0000",
+      "rotten_flesh": "2025-04-19 02:18:59 +0000"
     },
     "done": false
   },
@@ -2405,6 +2407,7 @@
       "shrubland": "2025-04-19 02:15:22 +0000",
       "maple_woods": "2025-04-19 02:15:15 +0000",
       "orchard": "2025-04-19 02:15:08 +0000",
+      "redwood_forest": "2025-04-19 02:19:33 +0000",
       "dune_beach": "2025-04-18 04:02:59 +0000",
       "seasonal_forest": "2025-04-19 02:15:11 +0000",
       "crag": "2025-04-19 00:54:52 +0000"
@@ -4277,15 +4280,201 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/mcfur/biomesoplenty/stripped_redwood_bookshelf_drawer": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/biomesoplenty/redwood_glass_trapdoor": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-04-19 02:19:13 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/diorite": {
     "criteria": {
       "has_the_recipe": "2025-04-19 02:14:39 +0000"
     },
     "done": true
   },
+  "everycomp:recipes/decorations/mws/biomesoplenty/redwood_terrace_stairs": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcw/biomesoplenty/redwood_louvered_shutter": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcw/biomesoplenty/redwood_window": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/biomesoplenty/redwood_mystic_trapdoor": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcr/biomesoplenty/redwood_lower_roof": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/biomesoplenty/redwood_lower_triple_drawer": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/biomesoplenty/redwood_glass_door": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcf/biomesoplenty/redwood_highley_gate": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/biomesoplenty/stripped_redwood_end_table": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/biomesoplenty/stripped_redwood_table": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/biomesoplenty/redwood_barn_glass_door": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-19 02:19:13 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/biomesoplenty/redwood_end_table": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-04-19 02:19:07 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-19 02:20:43 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/biomesoplenty/redwood_waffle_door": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcw/biomesoplenty/redwood_blinds": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/dark_prismarine": {
     "criteria": {
       "has_the_recipe": "2025-04-19 02:14:39 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/biomesoplenty/stripped_redwood_double_drawer_counter": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/redwood_sign": {
+    "criteria": {
+      "has_planks": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/biomesoplenty/redwood_swamp_trapdoor": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/redwood_planks": {
+    "criteria": {
+      "has_logs": "2025-04-19 02:23:10 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/biomesoplenty/redwood_paper_trapdoor": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/biomesoplenty/stripped_redwood_modern_chair": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-19 02:19:07 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcw/biomesoplenty/redwood_plank_parapet": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-04-19 02:18:22 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/biomesoplenty/redwood_stool_chair": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
     },
     "done": true
   },
@@ -4296,9 +4485,51 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/mcr/biomesoplenty/redwood_planks_attic_roof": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcb/biomesoplenty/redwood_log_bridge_middle": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/biomesoplenty/redwood_barred_trapdoor": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/biomesoplenty/stripped_redwood_cupboard_counter": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_mystic_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-19 02:14:39 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/biomesoplenty/redwood_barn_trapdoor": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/biomesoplenty/redwood_bamboo_trapdoor": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
     },
     "done": true
   },
@@ -4311,6 +4542,30 @@
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-04-19 02:15:36 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mws/biomesoplenty/redwood_compact_stairs": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-04-19 02:20:43 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/biomesoplenty/redwood_modern_chair": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcw/biomesoplenty/stripped_redwood_log_window": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
     },
     "done": true
   },
@@ -4332,6 +4587,42 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/mcd/biomesoplenty/redwood_barn_door": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcr/biomesoplenty/redwood_planks_top_roof": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-04-19 02:19:13 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/biomesoplenty/stripped_redwood_drawer_counter": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/biomesoplenty/stripped_redwood_stool_chair": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/biomesoplenty/redwood_classic_trapdoor": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_blossom_trapdoor": {
     "criteria": {
       "has_plankss": "2025-04-19 02:15:36 +0000"
@@ -4350,9 +4641,51 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/mcfur/biomesoplenty/redwood_double_drawer": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mws/biomesoplenty/redwood_loft_stairs": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcw/biomesoplenty/redwood_plank_four_window": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/biomesoplenty/redwood_tropical_door": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/biomesoplenty/redwood_double_wardrobe": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2025-04-19 02:14:39 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/biomesoplenty/redwood_wardrobe": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-19 02:20:43 +0000"
     },
     "done": true
   },
@@ -4374,9 +4707,51 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/mcfur/biomesoplenty/redwood_desk": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcw/biomesoplenty/stripped_redwood_pane_window": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/biomesoplenty/redwood_blossom_trapdoor": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-19 02:18:57 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/biomesoplenty/redwood_modern_wardrobe": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/biomesoplenty/redwood_bamboo_door": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/light_gray_oak_crib": {
     "criteria": {
       "has_oak_planks": "2025-04-19 02:15:36 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/biomesoplenty/redwood_tropical_trapdoor": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
     },
     "done": true
   },
@@ -4416,9 +4791,39 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/mct/biomesoplenty/redwood_four_panel_trapdoor": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/biomesoplenty/redwood_bark_trapdoor": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/biomesoplenty/stripped_redwood_drawer": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/blue_oak_crib": {
     "criteria": {
       "has_oak_planks": "2025-04-19 02:15:36 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/biomesoplenty/stripped_redwood_bookshelf": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcw/biomesoplenty/redwood_shutter": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
     },
     "done": true
   },
@@ -4428,9 +4833,51 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/mcfur/biomesoplenty/redwood_triple_drawer": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcf/biomesoplenty/redwood_wired_fence": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcr/biomesoplenty/redwood_upper_lower_roof": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/biomesoplenty/redwood_covered_desk": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcf/biomesoplenty/redwood_pyramid_gate": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/biomesoplenty/stripped_redwood_covered_desk": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/red_oak_crib": {
     "criteria": {
       "has_oak_planks": "2025-04-19 02:15:36 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcw/biomesoplenty/redwood_plank_window": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
     },
     "done": true
   },
@@ -4440,9 +4887,51 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/mcd/biomesoplenty/redwood_mystic_door": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/asian_red_bridge": {
     "criteria": {
       "has_planks": "2025-04-19 02:15:36 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/biomesoplenty/redwood_japanese_door": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcr/biomesoplenty/redwood_top_roof": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/biomesoplenty/redwood_japanese2_door": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/redwood_fence": {
+    "criteria": {
+      "has_planks": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/biomesoplenty/redwood_bookshelf": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-19 02:20:43 +0000"
     },
     "done": true
   },
@@ -4470,9 +4959,21 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/mcp/biomesoplenty/redwood_planks_path": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/granite": {
     "criteria": {
       "has_the_recipe": "2025-04-19 02:14:39 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcw/biomesoplenty/redwood_four_window": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
     },
     "done": true
   },
@@ -4488,6 +4989,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/mcfur/biomesoplenty/redwood_chair": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_barrel_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-19 02:14:39 +0000"
@@ -4500,9 +5007,33 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/redwood_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcr/biomesoplenty/redwood_roof": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/red_sandstone": {
     "criteria": {
       "has_the_recipe": "2025-04-19 02:14:39 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcr/biomesoplenty/redwood_planks_lower_roof": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/biomesoplenty/redwood_beach_door": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
     },
     "done": true
   },
@@ -4512,9 +5043,51 @@
     },
     "done": true
   },
+  "mca:recipes/misc/potions": {
+    "criteria": {
+      "has_item": "2025-04-19 02:19:07 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mws/biomesoplenty/redwood_bulk_stairs": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcf/biomesoplenty/redwood_horse_fence": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/biomesoplenty/stripped_redwood_glass_table": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/pink_oak_crib": {
     "criteria": {
       "has_oak_planks": "2025-04-19 02:15:36 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcr/biomesoplenty/redwood_planks_upper_lower_roof": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-04-19 02:18:57 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcb/biomesoplenty/redwood_log_bridge_stair": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
     },
     "done": true
   },
@@ -4530,6 +5103,60 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/mcfur/biomesoplenty/redwood_counter": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/biomesoplenty/stripped_redwood_striped_chair": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-19 02:20:43 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcw/biomesoplenty/redwood_log_parapet": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/biomesoplenty/redwood_double_drawer_counter": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/biomesoplenty/redwood_stable_door": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/biomesoplenty/redwood_glass_table": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/biomesoplenty/stripped_redwood_bookshelf_cupboard": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcf/biomesoplenty/redwood_picket_fence": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/warped": {
     "criteria": {
       "has_the_recipe": "2025-04-19 02:14:39 +0000"
@@ -4542,6 +5169,18 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/mcfur/biomesoplenty/redwood_lower_bookshelf_drawer": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcw/biomesoplenty/stripped_redwood_log_four_window": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/dark_oak": {
     "criteria": {
       "has_the_recipe": "2025-04-19 02:14:39 +0000"
@@ -4551,6 +5190,18 @@
   "mcwtrpdoors:recipes/oak/oak_swamp_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-19 02:14:39 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/biomesoplenty/stripped_redwood_modern_desk": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/biomesoplenty/stripped_redwood_chair": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
     },
     "done": true
   },
@@ -4567,9 +5218,87 @@
     },
     "done": true
   },
+  "mcwfurnitures:recipes/birch": {
+    "criteria": {
+      "has_wood": "2025-04-19 02:20:43 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/biomesoplenty/redwood_bark_glass_door": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-04-19 02:20:43 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-19 02:20:43 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/biomesoplenty/redwood_drawer": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcr/biomesoplenty/redwood_attic_roof": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/components": {
     "criteria": {
       "has_wood": "2025-04-19 02:14:39 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-19 02:20:43 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/biomesoplenty/stripped_redwood_desk": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/birch": {
+    "criteria": {
+      "has_wood": "2025-04-19 02:20:43 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/biomesoplenty/stripped_redwood_triple_drawer": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/biomesoplenty/stripped_redwood_large_drawer": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/biomesoplenty/redwood_modern_desk": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/biomesoplenty/stripped_redwood_modern_wardrobe": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
     },
     "done": true
   },
@@ -4585,6 +5314,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/mcfur/biomesoplenty/redwood_drawer_counter": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_glass_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-19 02:14:39 +0000"
@@ -4594,6 +5329,60 @@
   "mcwwindows:recipes/cherry": {
     "criteria": {
       "has_the_recipe": "2025-04-19 02:14:39 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcr/biomesoplenty/redwood_upper_steep_roof": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcw/biomesoplenty/redwood_plank_window2": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/biomesoplenty/redwood_nether_door": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/biomesoplenty/redwood_modern_door": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcr/biomesoplenty/redwood_planks_roof": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_paper": {
+    "criteria": {
+      "has_logs": "2025-04-19 02:20:43 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcw/biomesoplenty/redwood_plank_pane_window": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/biomesoplenty/redwood_large_drawer": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/biomesoplenty/redwood_barrel_trapdoor": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
     },
     "done": true
   },
@@ -4621,9 +5410,57 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/birch/birch_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-19 02:20:43 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/biomesoplenty/redwood_bookshelf_drawer": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/biomesoplenty/stripped_redwood_lower_triple_drawer": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/white_oak_crib": {
     "criteria": {
       "has_oak_planks": "2025-04-19 02:15:36 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-19 02:20:43 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/biomesoplenty/redwood_beach_trapdoor": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/biomesoplenty/redwood_striped_chair": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcf/biomesoplenty/redwood_stockade_fence": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/biomesoplenty/redwood_cupboard_counter": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
     },
     "done": true
   },
@@ -4657,6 +5494,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/mcd/biomesoplenty/redwood_four_panel_door": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/deepslate": {
     "criteria": {
       "has_the_recipe": "2025-04-19 02:14:39 +0000"
@@ -4669,9 +5512,81 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/mcd/biomesoplenty/redwood_swamp_door": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcw/biomesoplenty/stripped_redwood_log_window2": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/biomesoplenty/redwood_western_door": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/jungle": {
     "criteria": {
       "has_the_recipe": "2025-04-19 02:14:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-04-19 02:19:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-04-19 02:19:07 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mws/biomesoplenty/redwood_railing": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/birch": {
+    "criteria": {
+      "has_planks": "2025-04-19 02:20:43 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mws/biomesoplenty/redwood_balcony": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "mcwstairs:recipes/birch": {
+    "criteria": {
+      "has_planks": "2025-04-19 02:20:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-04-19 02:19:13 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/biomesoplenty/redwood_cottage_door": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/biomesoplenty/redwood_classic_door": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
     },
     "done": true
   },
@@ -4681,9 +5596,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-04-19 02:19:13 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mws/biomesoplenty/redwood_skyline_stairs": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/blackstone": {
     "criteria": {
       "has_the_recipe": "2025-04-19 02:14:39 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/birch_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-04-19 02:20:43 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/biomesoplenty/redwood_table": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
     },
     "done": true
   },
@@ -4699,9 +5638,33 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/redwood_button": {
+    "criteria": {
+      "has_planks": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/biomesoplenty/redwood_coffee_table": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2025-04-19 02:15:36 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcb/biomesoplenty/redwood_rail_bridge": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-19 02:20:43 +0000"
     },
     "done": true
   },
@@ -4711,9 +5674,27 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/mcr/biomesoplenty/redwood_planks_upper_steep_roof": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/sandstone": {
     "criteria": {
       "has_the_recipe": "2025-04-19 02:14:39 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcb/biomesoplenty/redwood_bridge_pier": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mct/biomesoplenty/redwood_cottage_trapdoor": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
     },
     "done": true
   },
@@ -4723,9 +5704,57 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/mcr/biomesoplenty/redwood_planks_steep_roof": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/biomesoplenty/stripped_redwood_coffee_table": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-19 02:19:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-04-19 02:15:36 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_door": {
+    "criteria": {
+      "has_planks": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/biomesoplenty/stripped_redwood_double_drawer": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-19 02:20:43 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/biomesoplenty/stripped_redwood_double_wardrobe": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/redwood_slab": {
+    "criteria": {
+      "has_planks": "2025-04-19 02:23:28 +0000"
     },
     "done": true
   },
@@ -4735,9 +5764,33 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/mcr/biomesoplenty/redwood_steep_roof": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/oak": {
     "criteria": {
       "has_planks": "2025-04-19 02:14:39 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcb/biomesoplenty/rope_redwood_bridge": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-19 02:20:43 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/biomesoplenty/stripped_redwood_counter": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
     },
     "done": true
   },
@@ -4747,9 +5800,45 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/redwood_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-19 02:20:43 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/black_oak_crib": {
     "criteria": {
       "has_oak_planks": "2025-04-19 02:15:36 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcw/biomesoplenty/redwood_window2": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/biomesoplenty/stripped_redwood_wardrobe": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/birch_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-19 02:20:43 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/biomesoplenty/stripped_redwood_lower_bookshelf_drawer": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
     },
     "done": true
   },
@@ -4759,9 +5848,21 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/mcw/biomesoplenty/redwood_pane_window": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/brown_oak_crib": {
     "criteria": {
       "has_oak_planks": "2025-04-19 02:15:36 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mws/biomesoplenty/redwood_platform": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
     },
     "done": true
   },
@@ -4771,9 +5872,45 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/mct/biomesoplenty/redwood_ranch_trapdoor": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/fd/biomesoplenty/redwood_cabinet": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-19 02:20:43 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/biomesoplenty/redwood_paper_door": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
   "mcwdoors:recipes/oak": {
     "criteria": {
       "has_wood": "2025-04-19 02:14:39 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/biomesoplenty/redwood_stable_head_door": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/biomesoplenty/redwood_bookshelf_cupboard": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
     },
     "done": true
   },
@@ -4786,6 +5923,18 @@
   "mca:recipes/decorations/gray_oak_crib": {
     "criteria": {
       "has_oak_planks": "2025-04-19 02:15:36 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcb/biomesoplenty/redwood_rope_bridge_stair": {
+    "criteria": {
+      "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-04-19 02:19:07 +0000"
     },
     "done": true
   },

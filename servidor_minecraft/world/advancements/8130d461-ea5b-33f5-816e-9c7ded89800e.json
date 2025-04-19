@@ -2303,8 +2303,10 @@
       "shrubland": "2025-04-19 01:28:51 +0000",
       "maple_woods": "2025-04-19 01:28:52 +0000",
       "orchard": "2025-04-19 01:28:46 +0000",
+      "redwood_forest": "2025-04-19 02:23:04 +0000",
       "dune_beach": "2025-04-18 04:03:01 +0000",
       "seasonal_forest": "2025-04-19 01:28:41 +0000",
+      "prairie": "2025-04-19 02:25:16 +0000",
       "crag": "2025-04-19 01:19:49 +0000"
     },
     "done": false
@@ -2405,6 +2407,12 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/curtains": {
+    "criteria": {
+      "has_wood": "2025-04-19 02:16:06 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/lime_birch_crib": {
     "criteria": {
       "has_birch_planks": "2025-04-19 01:39:01 +0000"
@@ -2489,6 +2497,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/redwood_planks": {
+    "criteria": {
+      "has_logs": "2025-04-19 02:23:06 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/fir_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-19 01:34:55 +0000"
@@ -2556,6 +2570,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-04-19 02:21:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-04-19 01:31:06 +0000"
@@ -2565,6 +2585,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-04-19 01:40:34 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_white": {
+    "criteria": {
+      "has_white_wool": "2025-04-19 02:16:06 +0000"
     },
     "done": true
   },
@@ -2676,6 +2702,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-04-19 02:21:35 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/bridge_torch": {
     "criteria": {
       "has_planks": "2025-04-19 01:58:52 +0000"
@@ -2757,6 +2789,12 @@
   "mcwroofs:recipes/cobblestone": {
     "criteria": {
       "has_planks": "2025-04-19 02:01:39 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/awning": {
+    "criteria": {
+      "has_planks": "2025-04-19 02:16:06 +0000"
     },
     "done": true
   },
@@ -3186,6 +3224,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-04-19 02:16:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-19 02:16:06 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/combat/cincinnasite_sword_diamond": {
     "criteria": {
       "has_item.minecraft.diamond": "2025-04-19 01:42:14 +0000"
@@ -3236,6 +3286,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "porkchop": "2025-04-19 02:21:38 +0000",
+      "mutton": "2025-04-19 02:16:15 +0000",
       "salmon": "2025-04-19 01:31:57 +0000"
     },
     "done": false
@@ -3309,6 +3361,12 @@
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2025-04-19 01:40:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-04-19 02:16:06 +0000"
     },
     "done": true
   },
@@ -3728,6 +3786,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-04-19 02:16:06 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_barn_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-19 01:27:06 +0000"
@@ -3797,6 +3861,12 @@
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-04-19 01:40:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_meal": {
+    "criteria": {
+      "has_item": "2025-04-19 02:16:06 +0000"
     },
     "done": true
   },
@@ -3890,9 +3960,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-19 02:21:35 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/oak_barrel": {
     "criteria": {
       "has_oak_plank": "2025-04-19 01:31:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-04-19 02:16:06 +0000"
     },
     "done": true
   },
@@ -3980,6 +4062,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-04-19 02:21:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-19 02:21:35 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/sandstone": {
     "criteria": {
       "has_the_recipe": "2025-04-19 01:27:06 +0000"
@@ -4013,6 +4107,12 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-04-19 01:31:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-04-19 02:16:06 +0000"
     },
     "done": true
   },
@@ -4100,9 +4200,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-04-19 02:16:06 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/oak": {
     "criteria": {
       "has_planks": "2025-04-19 01:27:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-04-19 02:16:06 +0000"
     },
     "done": true
   },
@@ -4151,6 +4263,12 @@
   "mca:recipes/decorations/green_birch_crib": {
     "criteria": {
       "has_birch_planks": "2025-04-19 01:39:01 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_white": {
+    "criteria": {
+      "has_white_wool": "2025-04-19 02:16:06 +0000"
     },
     "done": true
   },
