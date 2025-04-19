@@ -2246,7 +2246,8 @@
       "porkchop": "2025-04-18 04:02:02 +0000",
       "cooked_cod": "2025-04-19 02:37:51 +0000",
       "rotten_flesh": "2025-04-19 02:18:59 +0000",
-      "cod": "2025-04-19 02:27:00 +0000"
+      "cod": "2025-04-19 02:27:00 +0000",
+      "cooked_salmon": "2025-04-19 02:51:42 +0000"
     },
     "done": false
   },
@@ -2409,6 +2410,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "shrubland": "2025-04-19 02:15:22 +0000",
+      "marsh": "2025-04-19 02:46:45 +0000",
       "maple_woods": "2025-04-19 02:15:15 +0000",
       "orchard": "2025-04-19 02:15:08 +0000",
       "redwood_forest": "2025-04-19 02:19:33 +0000",
@@ -2416,6 +2418,7 @@
       "seasonal_forest": "2025-04-19 02:15:11 +0000",
       "pasture": "2025-04-19 02:28:54 +0000",
       "lavender_field": "2025-04-19 02:29:14 +0000",
+      "prairie": "2025-04-19 02:55:49 +0000",
       "crag": "2025-04-19 00:54:52 +0000"
     },
     "done": false
@@ -4286,6 +4289,78 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-19 02:56:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-19 02:56:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-19 02:56:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-19 02:56:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-19 02:56:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-19 02:56:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-19 02:56:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-19 02:56:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-19 02:56:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-19 02:56:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-19 02:56:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-19 02:56:02 +0000"
+    },
+    "done": false
+  },
   "mcwroofs:recipes/grass": {
     "criteria": {
       "has_planks": "2025-04-19 02:31:34 +0000"
@@ -4442,6 +4517,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-19 02:55:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
     "criteria": {
       "has_rabbit": "2025-04-19 02:33:06 +0000"
@@ -4508,6 +4589,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/mossy_cobblestone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-04-19 02:55:01 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/apple_cider": {
     "criteria": {
       "has_apple": "2025-04-19 02:18:22 +0000"
@@ -4530,6 +4617,12 @@
   "everycomp:recipes/decorations/mcr/biomesoplenty/redwood_planks_attic_roof": {
     "criteria": {
       "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-19 02:55:01 +0000"
     },
     "done": true
   },
@@ -4572,6 +4665,12 @@
   "everycomp:recipes/decorations/mct/biomesoplenty/redwood_bamboo_trapdoor": {
     "criteria": {
       "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_mossy_cobblestone_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-19 02:55:01 +0000"
     },
     "done": true
   },
@@ -4638,6 +4737,12 @@
   "mca:recipes/decorations/cyan_oak_crib": {
     "criteria": {
       "has_oak_planks": "2025-04-19 02:15:36 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/mossy_cobblestone": {
+    "criteria": {
+      "has_wood": "2025-04-19 02:55:01 +0000"
     },
     "done": true
   },
@@ -5061,6 +5166,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/mossy_cobblestone_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-19 02:55:01 +0000"
+    },
+    "done": true
+  },
   "mcwpaths:recipes/soil": {
     "criteria": {
       "has_wood": "2025-04-19 02:31:34 +0000"
@@ -5070,6 +5181,12 @@
   "everycomp:recipes/decorations/mcp/biomesoplenty/redwood_planks_path": {
     "criteria": {
       "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mossy_stone_brick_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-19 02:55:01 +0000"
     },
     "done": true
   },
@@ -5115,6 +5232,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-19 02:55:01 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/redwood_pressure_plate": {
     "criteria": {
       "has_planks": "2025-04-19 02:23:28 +0000"
@@ -5136,6 +5259,12 @@
   "everycomp:recipes/decorations/mcr/biomesoplenty/redwood_planks_lower_roof": {
     "criteria": {
       "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mossy_cobblestone_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-04-19 02:55:01 +0000"
     },
     "done": true
   },
@@ -5238,6 +5367,12 @@
   "mcwwindows:recipes/prismarine": {
     "criteria": {
       "has_the_recipe": "2025-04-19 02:14:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-19 02:55:01 +0000"
     },
     "done": true
   },
@@ -5358,6 +5493,12 @@
   "everycomp:recipes/decorations/mcfur/biomesoplenty/stripped_redwood_chair": {
     "criteria": {
       "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-19 02:55:01 +0000"
     },
     "done": true
   },
@@ -5518,6 +5659,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-19 02:55:01 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/mcd/biomesoplenty/redwood_nether_door": {
     "criteria": {
       "has_item": "2025-04-19 02:23:28 +0000"
@@ -5584,6 +5731,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-19 02:55:01 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_whispering_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-19 02:14:39 +0000"
@@ -5623,6 +5776,12 @@
   "everycomp:recipes/decorations/mct/biomesoplenty/redwood_beach_trapdoor": {
     "criteria": {
       "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-19 02:55:01 +0000"
     },
     "done": true
   },
@@ -5851,6 +6010,12 @@
   "mca:recipes/decorations/purple_oak_crib": {
     "criteria": {
       "has_oak_planks": "2025-04-19 02:15:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-04-19 02:55:01 +0000"
     },
     "done": true
   },
@@ -6169,6 +6334,12 @@
   "mcwdoors:recipes/oak": {
     "criteria": {
       "has_wood": "2025-04-19 02:14:39 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mossy_stone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-04-19 02:55:01 +0000"
     },
     "done": true
   },
