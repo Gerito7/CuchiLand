@@ -85,6 +85,7 @@
       "minecraft:forest": "2025-04-19 02:13:55 +0000",
       "minecraft:ocean": "2025-04-18 04:03:01 +0000",
       "minecraft:windswept_savanna": "2025-04-18 03:56:24 +0000",
+      "minecraft:flower_forest": "2025-04-19 02:26:22 +0000",
       "minecraft:plains": "2025-04-19 00:51:54 +0000"
     },
     "done": false
@@ -2241,8 +2242,10 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-04-19 02:34:16 +0000",
       "porkchop": "2025-04-18 04:02:02 +0000",
-      "rotten_flesh": "2025-04-19 02:18:59 +0000"
+      "rotten_flesh": "2025-04-19 02:18:59 +0000",
+      "cod": "2025-04-19 02:27:00 +0000"
     },
     "done": false
   },
@@ -2410,6 +2413,8 @@
       "redwood_forest": "2025-04-19 02:19:33 +0000",
       "dune_beach": "2025-04-18 04:02:59 +0000",
       "seasonal_forest": "2025-04-19 02:15:11 +0000",
+      "pasture": "2025-04-19 02:28:54 +0000",
+      "lavender_field": "2025-04-19 02:29:14 +0000",
       "crag": "2025-04-19 00:54:52 +0000"
     },
     "done": false
@@ -4280,6 +4285,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/grass": {
+    "criteria": {
+      "has_planks": "2025-04-19 02:31:34 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/mcfur/biomesoplenty/stripped_redwood_bookshelf_drawer": {
     "criteria": {
       "has_item": "2025-04-19 02:23:28 +0000"
@@ -4358,6 +4369,12 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/curtains": {
+    "criteria": {
+      "has_wood": "2025-04-19 02:28:21 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/mcfur/biomesoplenty/stripped_redwood_table": {
     "criteria": {
       "has_item": "2025-04-19 02:23:28 +0000"
@@ -4400,6 +4417,12 @@
     },
     "done": true
   },
+  "mca:recipes/misc/blueprint": {
+    "criteria": {
+      "has_item": "2025-04-19 02:26:53 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/mcd/biomesoplenty/redwood_waffle_door": {
     "criteria": {
       "has_item": "2025-04-19 02:23:28 +0000"
@@ -4418,6 +4441,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-04-19 02:33:06 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/mcfur/biomesoplenty/stripped_redwood_double_drawer_counter": {
     "criteria": {
       "has_item": "2025-04-19 02:23:28 +0000"
@@ -4427,6 +4456,12 @@
   "biomesoplenty:recipes/decorations/redwood_sign": {
     "criteria": {
       "has_planks": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-04-19 02:35:17 +0000"
     },
     "done": true
   },
@@ -4463,6 +4498,12 @@
   "everycomp:recipes/decorations/mcw/biomesoplenty/redwood_plank_parapet": {
     "criteria": {
       "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-04-19 02:35:17 +0000"
     },
     "done": true
   },
@@ -4545,6 +4586,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-04-19 02:34:13 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/mws/biomesoplenty/redwood_compact_stairs": {
     "criteria": {
       "has_item": "2025-04-19 02:23:28 +0000"
@@ -4560,6 +4607,12 @@
   "everycomp:recipes/decorations/mcfur/biomesoplenty/redwood_modern_chair": {
     "criteria": {
       "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_white": {
+    "criteria": {
+      "has_white_wool": "2025-04-19 02:28:21 +0000"
     },
     "done": true
   },
@@ -4647,6 +4700,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-04-19 02:35:14 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/mws/biomesoplenty/redwood_loft_stairs": {
     "criteria": {
       "has_item": "2025-04-19 02:23:28 +0000"
@@ -4674,6 +4733,12 @@
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2025-04-19 02:14:39 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/bouquet": {
+    "criteria": {
+      "has_item": "2025-04-19 02:32:00 +0000"
     },
     "done": true
   },
@@ -4722,6 +4787,12 @@
   "everycomp:recipes/decorations/mct/biomesoplenty/redwood_blossom_trapdoor": {
     "criteria": {
       "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/awning": {
+    "criteria": {
+      "has_planks": "2025-04-19 02:28:21 +0000"
     },
     "done": true
   },
@@ -4821,6 +4892,24 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/silver_ingot_from_smelting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-04-19 02:35:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-04-19 02:35:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/safety_net": {
+    "criteria": {
+      "has_rope": "2025-04-19 02:35:17 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/mcw/biomesoplenty/redwood_shutter": {
     "criteria": {
       "has_item": "2025-04-19 02:23:28 +0000"
@@ -4872,6 +4961,12 @@
   "mca:recipes/decorations/red_oak_crib": {
     "criteria": {
       "has_oak_planks": "2025-04-19 02:15:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-04-19 02:35:17 +0000"
     },
     "done": true
   },
@@ -4956,6 +5051,12 @@
   "mcwbridges:recipes/oak_rail_bridge": {
     "criteria": {
       "has_planks": "2025-04-19 02:15:36 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/soil": {
+    "criteria": {
+      "has_wood": "2025-04-19 02:31:34 +0000"
     },
     "done": true
   },
@@ -5061,9 +5162,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-04-19 02:28:21 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/mcfur/biomesoplenty/stripped_redwood_glass_table": {
     "criteria": {
       "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-19 02:28:21 +0000"
     },
     "done": true
   },
@@ -5085,6 +5198,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-04-19 02:26:57 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/mcb/biomesoplenty/redwood_log_bridge_stair": {
     "criteria": {
       "has_item": "2025-04-19 02:23:28 +0000"
@@ -5094,6 +5213,18 @@
   "mcwwindows:recipes/bricks": {
     "criteria": {
       "has_the_recipe": "2025-04-19 02:14:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-04-19 02:34:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-04-19 02:26:57 +0000"
     },
     "done": true
   },
@@ -5145,6 +5276,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-04-19 02:28:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-19 02:33:06 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/mcfur/biomesoplenty/stripped_redwood_bookshelf_cupboard": {
     "criteria": {
       "has_item": "2025-04-19 02:23:28 +0000"
@@ -5166,6 +5309,12 @@
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2025-04-19 02:15:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-04-19 02:26:57 +0000"
     },
     "done": true
   },
@@ -5209,6 +5358,12 @@
     "criteria": {
       "has_wood": "2025-04-19 02:15:36 +0000",
       "has_the_recipe": "2025-04-19 02:15:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2025-04-19 02:33:06 +0000"
     },
     "done": true
   },
@@ -5356,6 +5511,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-04-19 02:33:54 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/mcr/biomesoplenty/redwood_planks_roof": {
     "criteria": {
       "has_item": "2025-04-19 02:23:28 +0000"
@@ -5476,9 +5637,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-04-19 02:34:13 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/stone": {
     "criteria": {
       "has_the_recipe": "2025-04-19 02:14:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-04-19 02:28:21 +0000"
     },
     "done": true
   },
@@ -5566,6 +5739,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-04-19 02:26:53 +0000"
+    },
+    "done": true
+  },
   "mcwstairs:recipes/birch": {
     "criteria": {
       "has_planks": "2025-04-19 02:20:43 +0000"
@@ -5593,6 +5772,18 @@
   "sophisticatedstorage:recipes/misc/oak_barrel": {
     "criteria": {
       "has_oak_plank": "2025-04-19 02:15:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-04-19 02:28:21 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/books": {
+    "criteria": {
+      "has_item": "2025-04-19 02:26:53 +0000"
     },
     "done": true
   },
@@ -5632,9 +5823,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-04-19 02:35:17 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/purple_oak_crib": {
     "criteria": {
       "has_oak_planks": "2025-04-19 02:15:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2025-04-19 02:33:06 +0000"
     },
     "done": true
   },
@@ -5698,9 +5901,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/raw_silver_to_raw_silver_block": {
+    "criteria": {
+      "has_raw_silver": "2025-04-19 02:35:18 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/print_classic": {
     "criteria": {
       "has_logs": "2025-04-19 02:14:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-04-19 02:28:21 +0000"
     },
     "done": true
   },
@@ -5725,6 +5940,12 @@
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-04-19 02:15:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_ingot_from_blasting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-04-19 02:35:18 +0000"
     },
     "done": true
   },
@@ -5770,6 +5991,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-04-19 02:28:21 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/oak": {
     "criteria": {
       "has_planks": "2025-04-19 02:14:39 +0000"
@@ -5785,6 +6012,12 @@
   "mcwtrpdoors:recipes/birch/birch_classic_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-19 02:20:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-04-19 02:28:21 +0000"
     },
     "done": true
   },
@@ -5842,6 +6075,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-04-19 02:35:17 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/orange_oak_crib": {
     "criteria": {
       "has_oak_planks": "2025-04-19 02:15:36 +0000"
@@ -5854,6 +6093,12 @@
     },
     "done": true
   },
+  "comforts:hammock_white": {
+    "criteria": {
+      "has_white_wool": "2025-04-19 02:28:21 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/brown_oak_crib": {
     "criteria": {
       "has_oak_planks": "2025-04-19 02:15:36 +0000"
@@ -5863,6 +6108,12 @@
   "everycomp:recipes/decorations/mws/biomesoplenty/redwood_platform": {
     "criteria": {
       "has_item": "2025-04-19 02:23:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-04-19 02:26:53 +0000"
     },
     "done": true
   },
@@ -5902,6 +6153,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-04-19 02:35:17 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/mcd/biomesoplenty/redwood_stable_head_door": {
     "criteria": {
       "has_item": "2025-04-19 02:23:28 +0000"
@@ -5923,6 +6180,12 @@
   "mca:recipes/decorations/gray_oak_crib": {
     "criteria": {
       "has_oak_planks": "2025-04-19 02:15:36 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/purple_dye_from_lavender": {
+    "criteria": {
+      "has_lavender": "2025-04-19 02:32:00 +0000"
     },
     "done": true
   },

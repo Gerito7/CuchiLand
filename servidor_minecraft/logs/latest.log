@@ -1359,3 +1359,6 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
 	... 29 more
 [02:20:55] [Server thread/INFO]: Titu claimed a grave belonging to Titu at 420, 69, -382, minecraft:overworld
+[02:31:55] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-34, y=75, z=-635} class_2338{x=-34, y=74, z=-635}
+[02:31:55] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-33, y=75, z=-635} class_2338{x=-34, y=74, z=-635}
+[02:34:44] [Server thread/WARN]: ramaasdas moved wrongly!
