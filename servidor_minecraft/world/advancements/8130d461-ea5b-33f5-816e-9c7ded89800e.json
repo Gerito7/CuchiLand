@@ -2417,6 +2417,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_bone_wall": {
+    "criteria": {
+      "has_item": "2025-04-19 03:06:03 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/mct/biomesoplenty/redwood_mystic_trapdoor": {
     "criteria": {
       "has_item": "2025-04-19 02:32:08 +0000"
@@ -2453,6 +2459,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-19 03:04:41 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/mcf/biomesoplenty/redwood_highley_gate": {
     "criteria": {
       "has_item": "2025-04-19 02:32:08 +0000"
@@ -2468,6 +2480,18 @@
   "everycomp:recipes/decorations/mcfur/biomesoplenty/stripped_redwood_end_table": {
     "criteria": {
       "has_item": "2025-04-19 02:32:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-19 03:04:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-19 03:04:41 +0000"
     },
     "done": true
   },
@@ -2498,6 +2522,12 @@
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2025-04-19 01:39:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-19 03:04:41 +0000"
     },
     "done": true
   },
@@ -2540,6 +2570,12 @@
   "everycomp:recipes/decorations/mcfur/biomesoplenty/redwood_end_table": {
     "criteria": {
       "has_item": "2025-04-19 02:32:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-04-19 03:05:34 +0000"
     },
     "done": true
   },
@@ -2588,6 +2624,12 @@
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-04-19 01:42:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-19 03:04:41 +0000"
     },
     "done": true
   },
@@ -2651,6 +2693,12 @@
     },
     "done": true
   },
+  "betterend:recipes/decorations/lucernia_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-04-19 03:04:41 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/baked_cod_stew": {
     "criteria": {
       "has_any_ingredient": "2025-04-19 02:26:35 +0000"
@@ -2663,6 +2711,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/combat/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-19 03:04:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2025-04-19 01:40:51 +0000"
@@ -2672,6 +2726,12 @@
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2025-04-19 01:39:01 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_reed_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-04-19 03:04:41 +0000"
     },
     "done": true
   },
@@ -2742,6 +2802,12 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/willow_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-04-19 03:04:41 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_mystic_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-19 01:27:06 +0000"
@@ -2787,6 +2853,12 @@
   "farmersdelight:recipes/food/roasted_mutton_chops": {
     "criteria": {
       "has_mutton": "2025-04-19 02:36:40 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/stalagnate_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-04-19 03:04:41 +0000"
     },
     "done": true
   },
@@ -2874,6 +2946,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragon_bone_block": {
+    "criteria": {
+      "has_dragonbone": "2025-04-19 03:06:03 +0000"
+    },
+    "done": true
+  },
   "bclib:recipes/misc/tag_bucket": {
     "criteria": {
       "has_tag_c_iron_ingots": "2025-04-19 01:40:34 +0000"
@@ -2928,6 +3006,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-19 03:04:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-04-19 02:01:39 +0000"
@@ -2937,6 +3021,12 @@
   "mcwbridges:recipes/iron_bridge": {
     "criteria": {
       "has_planks": "2025-04-19 01:40:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-19 03:04:41 +0000"
     },
     "done": true
   },
@@ -3102,6 +3192,18 @@
     },
     "done": true
   },
+  "betterend:recipes/decorations/lacugrove_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-04-19 03:04:41 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/umbrella_tree_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-04-19 03:04:41 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/awning": {
     "criteria": {
       "has_planks": "2025-04-19 02:16:06 +0000"
@@ -3162,6 +3264,12 @@
     },
     "done": true
   },
+  "betterend:recipes/decorations/lucernia_jellyshroom_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-04-19 03:04:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-04-19 01:40:34 +0000"
@@ -3207,6 +3315,12 @@
   "sophisticatedstorage:recipes/misc/oak_limited_barrel_4": {
     "criteria": {
       "has_oak_plank": "2025-04-19 01:31:06 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/silver_ingot_to_silver_nugget": {
+    "criteria": {
+      "has_silver_ingot": "2025-04-19 03:04:41 +0000"
     },
     "done": true
   },
@@ -3321,6 +3435,12 @@
   "mcwpaths:recipes/oak": {
     "criteria": {
       "has_wood": "2025-04-19 01:31:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-19 03:04:41 +0000"
     },
     "done": true
   },
@@ -3444,6 +3564,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/bestiary": {
+    "criteria": {
+      "has_item": "2025-04-19 03:04:41 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/blue_birch_crib": {
     "criteria": {
       "has_birch_planks": "2025-04-19 01:39:01 +0000"
@@ -3474,6 +3600,12 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/rubeus_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-04-19 03:04:41 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/redwood_fence": {
     "criteria": {
       "has_planks": "2025-04-19 02:32:08 +0000"
@@ -3489,6 +3621,12 @@
   "everycomp:recipes/decorations/mcfur/biomesoplenty/redwood_bookshelf": {
     "criteria": {
       "has_item": "2025-04-19 02:32:08 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/helix_tree_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-04-19 03:04:41 +0000"
     },
     "done": true
   },
@@ -3546,6 +3684,12 @@
     },
     "done": true
   },
+  "betterend:recipes/decorations/dragon_tree_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-04-19 03:04:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2025-04-19 01:40:34 +0000"
@@ -3579,6 +3723,12 @@
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-04-19 01:40:34 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/mossy_glowshroom_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-04-19 03:04:41 +0000"
     },
     "done": true
   },
@@ -3720,6 +3870,12 @@
     },
     "done": true
   },
+  "mca:recipes/misc/potions": {
+    "criteria": {
+      "has_item": "2025-04-19 03:05:34 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/mws/biomesoplenty/redwood_bulk_stairs": {
     "criteria": {
       "has_item": "2025-04-19 02:32:08 +0000"
@@ -3753,6 +3909,12 @@
   "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
     "criteria": {
       "has_any_ingredient": "2025-04-19 02:16:06 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/end_lotus_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-04-19 03:04:41 +0000"
     },
     "done": true
   },
@@ -3828,6 +3990,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-19 03:04:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_bowl": "2025-04-19 02:29:25 +0000"
@@ -3853,6 +4021,12 @@
   "mcwwindows:recipes/prismarine": {
     "criteria": {
       "has_the_recipe": "2025-04-19 01:27:06 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_horn": {
+    "criteria": {
+      "has_item": "2025-04-19 03:06:03 +0000"
     },
     "done": true
   },
@@ -3988,6 +4162,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-19 03:04:41 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/charcoal_block": {
     "criteria": {
       "has_charcoal": "2025-04-19 01:42:27 +0000"
@@ -4015,6 +4195,12 @@
   "comforts:rope_and_nail": {
     "criteria": {
       "has_iron": "2025-04-19 01:40:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-19 03:04:41 +0000"
     },
     "done": true
   },
@@ -4194,6 +4380,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_flute": {
+    "criteria": {
+      "has_item": "2025-04-19 03:06:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/ghost_chest": {
+    "criteria": {
+      "has_item": "2025-04-19 03:04:41 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/components": {
     "criteria": {
       "has_wood": "2025-04-19 01:27:06 +0000"
@@ -4254,6 +4452,12 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/nether_mushroom_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-04-19 03:04:41 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/whispering_gourd_lantern": {
     "criteria": {
       "has_torch": "2025-04-19 01:58:52 +0000"
@@ -4287,6 +4491,12 @@
   "mcwbridges:recipes/oak_log_bridge_middle": {
     "criteria": {
       "has_planks": "2025-04-19 01:31:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-19 03:04:41 +0000"
     },
     "done": true
   },
@@ -4344,6 +4554,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/nest": {
+    "criteria": {
+      "has_item": "2025-04-19 03:06:03 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/mcd/biomesoplenty/redwood_nether_door": {
     "criteria": {
       "has_item": "2025-04-19 02:32:08 +0000"
@@ -4380,6 +4596,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/dragonbone_bow": {
+    "criteria": {
+      "has_item": "2025-04-19 03:06:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-04-19 02:01:39 +0000"
@@ -4395,6 +4617,12 @@
   "sophisticatedstorage:recipes/misc/spruce_barrel_from_vanilla_barrel": {
     "criteria": {
       "has_vanilla_barrel": "2025-04-19 02:28:16 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/wart_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-04-19 03:04:41 +0000"
     },
     "done": true
   },
@@ -4530,9 +4758,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonbone_hoe": {
+    "criteria": {
+      "has_item": "2025-04-19 03:06:03 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/brown_birch_crib": {
     "criteria": {
       "has_birch_planks": "2025-04-19 01:39:01 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_sakura_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-04-19 03:04:41 +0000"
     },
     "done": true
   },
@@ -4545,6 +4785,12 @@
   "everycomp:recipes/decorations/mcf/biomesoplenty/redwood_stockade_fence": {
     "criteria": {
       "has_item": "2025-04-19 02:32:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/chain": {
+    "criteria": {
+      "has_item": "2025-04-19 03:04:41 +0000"
     },
     "done": true
   },
@@ -4650,6 +4896,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/gold_chandelier": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-19 03:04:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-04-19 01:27:06 +0000"
@@ -4686,6 +4938,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-04-19 03:05:34 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/nether_salad": {
     "criteria": {
       "has_bowl": "2025-04-19 02:29:25 +0000"
@@ -4695,6 +4953,12 @@
   "farmersdelight:recipes/combat/diamond_knife": {
     "criteria": {
       "has_diamond": "2025-04-19 01:42:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-04-19 03:05:34 +0000"
     },
     "done": true
   },
@@ -4800,6 +5064,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonbone_shovel": {
+    "criteria": {
+      "has_item": "2025-04-19 03:06:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-04-19 01:40:34 +0000"
@@ -4848,9 +5118,21 @@
     },
     "done": true
   },
+  "betterend:recipes/decorations/tenanea_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-04-19 03:04:41 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/transportation/nether_sakura_chest_boat": {
     "criteria": {
       "has_tag_c_chest": "2025-04-19 01:48:01 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/jellyshroom_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-04-19 03:04:41 +0000"
     },
     "done": true
   },
@@ -4920,6 +5202,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/silver_ingot_to_silver_block": {
+    "criteria": {
+      "has_silver_ingot": "2025-04-19 03:04:41 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/mcfur/biomesoplenty/redwood_coffee_table": {
     "criteria": {
       "has_item": "2025-04-19 02:32:08 +0000"
@@ -4983,6 +5271,12 @@
   "mcwwindows:recipes/sandstone": {
     "criteria": {
       "has_the_recipe": "2025-04-19 01:27:06 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_axe": {
+    "criteria": {
+      "has_item": "2025-04-19 03:06:03 +0000"
     },
     "done": true
   },
@@ -5052,6 +5346,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonbone_pickaxe": {
+    "criteria": {
+      "has_item": "2025-04-19 03:06:03 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/mcfur/biomesoplenty/stripped_redwood_coffee_table": {
     "criteria": {
       "has_item": "2025-04-19 02:32:08 +0000"
@@ -5067,6 +5367,12 @@
   "biomesoplenty:recipes/transportation/dead_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-19 01:34:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-19 03:05:34 +0000"
     },
     "done": true
   },
@@ -5232,6 +5538,12 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/anchor_tree_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-04-19 03:04:41 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/mcfur/biomesoplenty/stripped_redwood_lower_bookshelf_drawer": {
     "criteria": {
       "has_item": "2025-04-19 02:32:08 +0000"
@@ -5253,6 +5565,12 @@
   "mcwbridges:recipes/cobblestone_bridge_stair": {
     "criteria": {
       "has_planks": "2025-04-19 02:01:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_sword": {
+    "criteria": {
+      "has_item": "2025-04-19 03:06:03 +0000"
     },
     "done": true
   },
@@ -5283,6 +5601,12 @@
   "mca:recipes/decorations/brown_oak_crib": {
     "criteria": {
       "has_oak_planks": "2025-04-19 01:31:06 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/graveyard_soil": {
+    "criteria": {
+      "has_item": "2025-04-19 03:04:41 +0000"
     },
     "done": true
   },
@@ -5364,6 +5688,12 @@
     },
     "done": true
   },
+  "betterend:recipes/decorations/pythadendron_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-04-19 03:04:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-04-19 01:40:35 +0000"
@@ -5409,6 +5739,12 @@
   "betternether:recipes/transportation/warped_chest_boat": {
     "criteria": {
       "has_tag_c_chest": "2025-04-19 01:48:01 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/mushroom_fir_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-04-19 03:04:41 +0000"
     },
     "done": true
   },
@@ -5466,9 +5802,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-19 03:04:41 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/mcb/biomesoplenty/redwood_rope_bridge_stair": {
     "criteria": {
       "has_item": "2025-04-19 02:32:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-04-19 03:05:34 +0000"
     },
     "done": true
   },
