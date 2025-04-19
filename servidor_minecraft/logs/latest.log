@@ -1220,3 +1220,6 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [01:54:15] [Netty Epoll Server IO #2/ERROR]: Selected slot server: 1 | client: 1
 [01:54:18] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Titu accepted server config.
 [01:54:50] [Server thread/INFO]: Titu claimed a grave belonging to Titu at -178, 71, -76, minecraft:overworld
+[01:59:40] [Server thread/INFO]: Titu claimed a grave belonging to Titu at 91, 90, -27, minecraft:overworld
+[02:01:39] [Server thread/INFO]: Titu has made the advancement [Stone Age]
+[02:01:46] [Server thread/INFO]: Titu has made the advancement [Getting an Upgrade]
