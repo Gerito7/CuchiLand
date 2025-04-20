@@ -22035,3 +22035,261 @@ Caused by: java.lang.ClassNotFoundException: me.pandamods.fallingtrees.compat.Ja
 [03:14:19] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Lula123 (98bc60d0-314a-3a87-b776-a7bf57e236e2) successfully connected to voice chat
 [03:14:19] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 8130d461-ea5b-33f5-816e-9c7ded89800e
 [03:14:19] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Titu (8130d461-ea5b-33f5-816e-9c7ded89800e) successfully connected to voice chat
+[03:15:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 98bc60d0-314a-3a87-b776-a7bf57e236e2 timed out
+[03:15:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Lula123
+[03:15:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Lula123
+[03:15:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 8130d461-ea5b-33f5-816e-9c7ded89800e timed out
+[03:15:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Titu
+[03:15:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Titu
+[03:15:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 8130d461-ea5b-33f5-816e-9c7ded89800e
+[03:15:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 98bc60d0-314a-3a87-b776-a7bf57e236e2
+[03:15:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 8130d461-ea5b-33f5-816e-9c7ded89800e
+[03:15:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Titu (8130d461-ea5b-33f5-816e-9c7ded89800e) successfully connected to voice chat
+[03:15:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 98bc60d0-314a-3a87-b776-a7bf57e236e2
+[03:15:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Lula123 (98bc60d0-314a-3a87-b776-a7bf57e236e2) successfully connected to voice chat
+[03:15:21] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 98bc60d0-314a-3a87-b776-a7bf57e236e2 timed out
+[03:15:21] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Lula123
+[03:15:21] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Lula123
+[03:15:21] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 8130d461-ea5b-33f5-816e-9c7ded89800e timed out
+[03:15:21] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Titu
+[03:15:21] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Titu
+[03:15:21] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 98bc60d0-314a-3a87-b776-a7bf57e236e2
+[03:15:21] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 8130d461-ea5b-33f5-816e-9c7ded89800e
+[03:16:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 98bc60d0-314a-3a87-b776-a7bf57e236e2
+[03:16:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Lula123 (98bc60d0-314a-3a87-b776-a7bf57e236e2) successfully connected to voice chat
+[03:16:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 8130d461-ea5b-33f5-816e-9c7ded89800e
+[03:16:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Titu (8130d461-ea5b-33f5-816e-9c7ded89800e) successfully connected to voice chat
+[03:16:15] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2885@5106046c, suppressing error
+java.lang.NullPointerException: Cannot invoke "net.minecraft.class_1657$class_1658.method_19206()" because "$$1" is null
+	at net.minecraft.class_2244.method_19283(class_2244.java:115) ~[server-intermediary.jar:?]
+	at com.mojang.datafixers.util.Either$Left.ifLeft(Either.java:43) ~[datafixerupper-6.0.8.jar:?]
+	at net.minecraft.class_2244.method_9534(class_2244.java:114) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4970$class_4971.method_26174(class_4970.java:1133) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3225.method_14262(class_3225.java:343) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3244.method_12046(class_3244.java:1140) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2885.method_12547(class_2885.java:34) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2885.method_11054(class_2885.java:8) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2600.method_11072(class_2600.java:22) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:156) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:782) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:164) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:130) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:12318) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:758) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_5383(class_1255.java:115) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:742) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:675) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[03:16:16] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2885@6eb107dd, suppressing error
+java.lang.NullPointerException: Cannot invoke "net.minecraft.class_1657$class_1658.method_19206()" because "$$1" is null
+	at net.minecraft.class_2244.method_19283(class_2244.java:115) ~[server-intermediary.jar:?]
+	at com.mojang.datafixers.util.Either$Left.ifLeft(Either.java:43) ~[datafixerupper-6.0.8.jar:?]
+	at net.minecraft.class_2244.method_9534(class_2244.java:114) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4970$class_4971.method_26174(class_4970.java:1133) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3225.method_14262(class_3225.java:343) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3244.method_12046(class_3244.java:1140) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2885.method_12547(class_2885.java:34) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2885.method_11054(class_2885.java:8) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2600.method_11072(class_2600.java:22) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:156) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:782) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:164) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:130) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:12318) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:758) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_5383(class_1255.java:115) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:742) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:675) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[03:16:17] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 8130d461-ea5b-33f5-816e-9c7ded89800e timed out
+[03:16:17] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Titu
+[03:16:17] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Titu
+[03:16:17] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 8130d461-ea5b-33f5-816e-9c7ded89800e
+[03:16:17] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2885@7fd421ed, suppressing error
+java.lang.NullPointerException: Cannot invoke "net.minecraft.class_1657$class_1658.method_19206()" because "$$1" is null
+	at net.minecraft.class_2244.method_19283(class_2244.java:115) ~[server-intermediary.jar:?]
+	at com.mojang.datafixers.util.Either$Left.ifLeft(Either.java:43) ~[datafixerupper-6.0.8.jar:?]
+	at net.minecraft.class_2244.method_9534(class_2244.java:114) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4970$class_4971.method_26174(class_4970.java:1133) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3225.method_14262(class_3225.java:343) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3244.method_12046(class_3244.java:1140) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2885.method_12547(class_2885.java:34) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2885.method_11054(class_2885.java:8) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2600.method_11072(class_2600.java:22) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:156) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:782) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:164) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:130) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:12318) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:758) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_5383(class_1255.java:115) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:742) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:675) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[03:16:17] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2885@3ceb67bd, suppressing error
+java.lang.NullPointerException: Cannot invoke "net.minecraft.class_1657$class_1658.method_19206()" because "$$1" is null
+	at net.minecraft.class_2244.method_19283(class_2244.java:115) ~[server-intermediary.jar:?]
+	at com.mojang.datafixers.util.Either$Left.ifLeft(Either.java:43) ~[datafixerupper-6.0.8.jar:?]
+	at net.minecraft.class_2244.method_9534(class_2244.java:114) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4970$class_4971.method_26174(class_4970.java:1133) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3225.method_14262(class_3225.java:343) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3244.method_12046(class_3244.java:1140) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2885.method_12547(class_2885.java:34) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2885.method_11054(class_2885.java:8) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2600.method_11072(class_2600.java:22) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:156) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:782) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:164) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:130) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:12318) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:758) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_5383(class_1255.java:115) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:742) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:675) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[03:16:17] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2885@7df5a137, suppressing error
+java.lang.NullPointerException: Cannot invoke "net.minecraft.class_1657$class_1658.method_19206()" because "$$1" is null
+	at net.minecraft.class_2244.method_19283(class_2244.java:115) ~[server-intermediary.jar:?]
+	at com.mojang.datafixers.util.Either$Left.ifLeft(Either.java:43) ~[datafixerupper-6.0.8.jar:?]
+	at net.minecraft.class_2244.method_9534(class_2244.java:114) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4970$class_4971.method_26174(class_4970.java:1133) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3225.method_14262(class_3225.java:343) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3244.method_12046(class_3244.java:1140) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2885.method_12547(class_2885.java:34) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2885.method_11054(class_2885.java:8) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2600.method_11072(class_2600.java:22) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:156) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:782) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:164) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:130) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:12318) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:758) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_5383(class_1255.java:115) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:742) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:675) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[03:16:18] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 98bc60d0-314a-3a87-b776-a7bf57e236e2 timed out
+[03:16:18] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Lula123
+[03:16:18] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Lula123
+[03:16:18] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 8130d461-ea5b-33f5-816e-9c7ded89800e
+[03:16:18] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Titu (8130d461-ea5b-33f5-816e-9c7ded89800e) successfully connected to voice chat
+[03:16:18] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 98bc60d0-314a-3a87-b776-a7bf57e236e2
+[03:16:19] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 98bc60d0-314a-3a87-b776-a7bf57e236e2
+[03:16:19] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Lula123 (98bc60d0-314a-3a87-b776-a7bf57e236e2) successfully connected to voice chat
+[03:17:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 98bc60d0-314a-3a87-b776-a7bf57e236e2 timed out
+[03:17:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Lula123
+[03:17:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Lula123
+[03:17:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 8130d461-ea5b-33f5-816e-9c7ded89800e timed out
+[03:17:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Titu
+[03:17:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Titu
+[03:17:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 8130d461-ea5b-33f5-816e-9c7ded89800e
+[03:17:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 98bc60d0-314a-3a87-b776-a7bf57e236e2
+[03:17:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 8130d461-ea5b-33f5-816e-9c7ded89800e
+[03:17:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Titu (8130d461-ea5b-33f5-816e-9c7ded89800e) successfully connected to voice chat
+[03:17:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 8130d461-ea5b-33f5-816e-9c7ded89800e timed out
+[03:17:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Titu
+[03:17:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Titu
+[03:17:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 8130d461-ea5b-33f5-816e-9c7ded89800e
+[03:17:21] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 8130d461-ea5b-33f5-816e-9c7ded89800e
+[03:17:21] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Titu (8130d461-ea5b-33f5-816e-9c7ded89800e) successfully connected to voice chat
+[03:18:03] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 98bc60d0-314a-3a87-b776-a7bf57e236e2
+[03:18:03] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Lula123 (98bc60d0-314a-3a87-b776-a7bf57e236e2) successfully connected to voice chat
+[03:18:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 8130d461-ea5b-33f5-816e-9c7ded89800e timed out
+[03:18:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Titu
+[03:18:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Titu
+[03:18:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 8130d461-ea5b-33f5-816e-9c7ded89800e
+[03:18:18] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 98bc60d0-314a-3a87-b776-a7bf57e236e2 timed out
+[03:18:18] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Lula123
+[03:18:18] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Lula123
+[03:18:19] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 98bc60d0-314a-3a87-b776-a7bf57e236e2
+[03:19:05] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 98bc60d0-314a-3a87-b776-a7bf57e236e2
+[03:19:05] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Lula123 (98bc60d0-314a-3a87-b776-a7bf57e236e2) successfully connected to voice chat
+[03:19:05] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 8130d461-ea5b-33f5-816e-9c7ded89800e
+[03:19:05] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Titu (8130d461-ea5b-33f5-816e-9c7ded89800e) successfully connected to voice chat
+[03:19:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 98bc60d0-314a-3a87-b776-a7bf57e236e2 timed out
+[03:19:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Lula123
+[03:19:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Lula123
+[03:19:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 8130d461-ea5b-33f5-816e-9c7ded89800e timed out
+[03:19:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Titu
+[03:19:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Titu
+[03:19:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 98bc60d0-314a-3a87-b776-a7bf57e236e2
+[03:19:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 8130d461-ea5b-33f5-816e-9c7ded89800e
+[03:19:21] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 8130d461-ea5b-33f5-816e-9c7ded89800e
+[03:19:21] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Titu (8130d461-ea5b-33f5-816e-9c7ded89800e) successfully connected to voice chat
+[03:19:21] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 98bc60d0-314a-3a87-b776-a7bf57e236e2
+[03:19:21] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Lula123 (98bc60d0-314a-3a87-b776-a7bf57e236e2) successfully connected to voice chat
+[03:20:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 98bc60d0-314a-3a87-b776-a7bf57e236e2 timed out
+[03:20:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Lula123
+[03:20:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Lula123
+[03:20:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 8130d461-ea5b-33f5-816e-9c7ded89800e timed out
+[03:20:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Titu
+[03:20:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Titu
+[03:20:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 8130d461-ea5b-33f5-816e-9c7ded89800e
+[03:20:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 98bc60d0-314a-3a87-b776-a7bf57e236e2
+[03:20:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 8130d461-ea5b-33f5-816e-9c7ded89800e
+[03:20:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Titu (8130d461-ea5b-33f5-816e-9c7ded89800e) successfully connected to voice chat
+[03:20:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 98bc60d0-314a-3a87-b776-a7bf57e236e2
+[03:20:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Lula123 (98bc60d0-314a-3a87-b776-a7bf57e236e2) successfully connected to voice chat
+[03:20:56] [Server thread/INFO]: Titu was slain by Vindicator
+[03:21:04] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of Titu accepted server config.
+[03:21:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 98bc60d0-314a-3a87-b776-a7bf57e236e2 timed out
+[03:21:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Lula123
+[03:21:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Lula123
+[03:21:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 8130d461-ea5b-33f5-816e-9c7ded89800e timed out
+[03:21:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Titu
+[03:21:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Titu
+[03:21:11] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 98bc60d0-314a-3a87-b776-a7bf57e236e2
+[03:21:11] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 8130d461-ea5b-33f5-816e-9c7ded89800e
+[03:22:13] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 98bc60d0-314a-3a87-b776-a7bf57e236e2
+[03:22:13] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Lula123 (98bc60d0-314a-3a87-b776-a7bf57e236e2) successfully connected to voice chat
+[03:22:13] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 8130d461-ea5b-33f5-816e-9c7ded89800e
+[03:22:13] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Titu (8130d461-ea5b-33f5-816e-9c7ded89800e) successfully connected to voice chat
+[03:22:23] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 98bc60d0-314a-3a87-b776-a7bf57e236e2 timed out
+[03:22:23] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Lula123
+[03:22:23] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Lula123
+[03:22:23] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 8130d461-ea5b-33f5-816e-9c7ded89800e timed out
+[03:22:23] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Titu
+[03:22:23] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Titu
+[03:22:23] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 98bc60d0-314a-3a87-b776-a7bf57e236e2
+[03:22:23] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 8130d461-ea5b-33f5-816e-9c7ded89800e
+[03:22:24] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 98bc60d0-314a-3a87-b776-a7bf57e236e2
+[03:22:24] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Lula123 (98bc60d0-314a-3a87-b776-a7bf57e236e2) successfully connected to voice chat
+[03:22:24] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 8130d461-ea5b-33f5-816e-9c7ded89800e
+[03:22:24] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Titu (8130d461-ea5b-33f5-816e-9c7ded89800e) successfully connected to voice chat
+[03:23:11] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 98bc60d0-314a-3a87-b776-a7bf57e236e2 timed out
+[03:23:11] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Lula123
+[03:23:11] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Lula123
+[03:23:11] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 8130d461-ea5b-33f5-816e-9c7ded89800e timed out
+[03:23:11] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Titu
+[03:23:11] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Titu
+[03:23:12] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 8130d461-ea5b-33f5-816e-9c7ded89800e
+[03:23:12] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 98bc60d0-314a-3a87-b776-a7bf57e236e2
+[03:23:13] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 8130d461-ea5b-33f5-816e-9c7ded89800e
+[03:23:13] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Titu (8130d461-ea5b-33f5-816e-9c7ded89800e) successfully connected to voice chat
+[03:23:13] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 98bc60d0-314a-3a87-b776-a7bf57e236e2
+[03:23:13] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Lula123 (98bc60d0-314a-3a87-b776-a7bf57e236e2) successfully connected to voice chat
+[03:23:45] [Server thread/INFO]: Titu claimed a grave belonging to Titu at 8, 70, 91, minecraft:overworld
+[03:24:12] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 98bc60d0-314a-3a87-b776-a7bf57e236e2 timed out
+[03:24:12] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Lula123
+[03:24:12] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Lula123
+[03:24:12] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 8130d461-ea5b-33f5-816e-9c7ded89800e timed out
+[03:24:12] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Titu
+[03:24:12] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Titu
+[03:24:12] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 98bc60d0-314a-3a87-b776-a7bf57e236e2
+[03:24:12] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 8130d461-ea5b-33f5-816e-9c7ded89800e
+[03:24:17] [Server thread/WARN]: Lula123 moved wrongly!
