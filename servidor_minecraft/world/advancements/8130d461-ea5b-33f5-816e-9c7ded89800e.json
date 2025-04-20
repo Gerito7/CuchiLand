@@ -3893,6 +3893,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-04-20 03:15:15 +0000",
+      "minecraft:hoglin": "2025-04-20 03:27:22 +0000",
       "minecraft:spider": "2025-04-19 01:52:49 +0000",
       "minecraft:zombie": "2025-04-19 01:43:55 +0000"
     },
@@ -5824,6 +5825,66 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-20 02:52:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-04-20 02:52:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-04-20 02:52:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-20 02:52:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-04-20 02:52:46 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/end_fish_campfire": {
+    "criteria": {
+      "has_item.betterend.end_fish_raw": "2025-04-20 03:11:37 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/end_fish_smelting": {
+    "criteria": {
+      "has_item.betterend.end_fish_raw": "2025-04-20 03:11:37 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/end_fish_smoker": {
+    "criteria": {
+      "has_item.betterend.end_fish_raw": "2025-04-20 03:11:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-04-20 03:11:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-04-20 03:11:38 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/yellow_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-04-20 03:14:01 +0000"
@@ -5833,12 +5894,6 @@
   "mca:recipes/decorations/pink_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-04-20 03:14:01 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/dark_oak/dark_oak_cottage_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-04-20 03:18:47 +0000"
     },
     "done": true
   },
@@ -5866,12 +5921,6 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/dark_oak/dark_oak_beach_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-04-20 03:18:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2025-04-20 03:14:01 +0000"
@@ -5881,30 +5930,6 @@
   "mca:recipes/decorations/light_gray_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-04-20 03:14:01 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
-    "criteria": {
-      "has_any_ingredient": "2025-04-20 02:52:46 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/dark_oak_bridge_pier": {
-    "criteria": {
-      "has_planks": "2025-04-20 03:18:47 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/end_fish_campfire": {
-    "criteria": {
-      "has_item.betterend.end_fish_raw": "2025-04-20 03:11:37 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/acacia/dark_oak_bark_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-04-20 03:18:47 +0000"
     },
     "done": true
   },
@@ -5920,39 +5945,9 @@
     },
     "done": true
   },
-  "mcwfurnitures:recipes/dark_oak": {
-    "criteria": {
-      "has_wood": "2025-04-20 03:18:47 +0000"
-    },
-    "done": true
-  },
-  "mcwdoors:recipes/dark_oak": {
-    "criteria": {
-      "has_wood": "2025-04-20 03:18:47 +0000"
-    },
-    "done": true
-  },
   "mca:recipes/decorations/purple_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-04-20 03:14:01 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/dark_oak/dark_oak_classic_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-04-20 03:18:47 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/dark_oak/dark_oak_ranch_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-04-20 03:18:47 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/end_fish_smelting": {
-    "criteria": {
-      "has_item.betterend.end_fish_raw": "2025-04-20 03:11:37 +0000"
     },
     "done": true
   },
@@ -5968,45 +5963,15 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/dark_oak/dark_oak_mystic_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-04-20 03:18:47 +0000"
-    },
-    "done": true
-  },
-  "mcwroofs:recipes/dark_oak": {
-    "criteria": {
-      "has_planks": "2025-04-20 03:18:47 +0000"
-    },
-    "done": true
-  },
   "mca:recipes/decorations/brown_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-04-20 03:14:01 +0000"
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/dark_oak/dark_oak_tropical_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-04-20 03:18:47 +0000"
-    },
-    "done": true
-  },
-  "mcwstairs:recipes/dark_oak": {
-    "criteria": {
-      "has_planks": "2025-04-20 03:18:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2025-04-20 03:14:01 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/dark_oak/dark_oak_paper_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-04-20 03:18:47 +0000"
     },
     "done": true
   },
@@ -6022,12 +5987,6 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/dark_oak/dark_oak_glass_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-04-20 03:18:47 +0000"
-    },
-    "done": true
-  },
   "mca:recipes/decorations/red_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-04-20 03:14:01 +0000"
@@ -6040,12 +5999,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/target": {
-    "criteria": {
-      "has_hay_block": "2025-04-20 03:11:38 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2025-04-20 03:14:01 +0000"
@@ -6055,18 +6008,6 @@
   "mca:recipes/decorations/white_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-04-20 03:14:01 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/end_fish_smoker": {
-    "criteria": {
-      "has_item.betterend.end_fish_raw": "2025-04-20 03:11:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_beef_from_smoking": {
-    "criteria": {
-      "has_beef": "2025-04-20 02:52:46 +0000"
     },
     "done": true
   },
@@ -6094,24 +6035,6 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/dark_oak/dark_oak_barred_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-04-20 03:18:47 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/dark_oak/dark_oak_barn_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-04-20 03:18:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_beef": {
-    "criteria": {
-      "has_beef": "2025-04-20 02:52:46 +0000"
-    },
-    "done": true
-  },
   "mca:recipes/decorations/light_blue_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-04-20 03:14:01 +0000"
@@ -6136,45 +6059,15 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/dark_oak/dark_oak_barrel_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-04-20 03:18:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2025-04-20 03:14:01 +0000"
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/print_four_panel": {
-    "criteria": {
-      "has_logs": "2025-04-20 03:18:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_planks": {
-    "criteria": {
-      "has_log": "2025-04-20 03:14:36 +0000"
-    },
-    "done": true
-  },
   "mcwbridges:recipes/spruce_log_bridge_middle": {
     "criteria": {
       "has_planks": "2025-04-20 03:14:01 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/beef_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-04-20 02:52:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_wood": {
-    "criteria": {
-      "has_log": "2025-04-20 03:18:47 +0000"
     },
     "done": true
   },
@@ -6196,21 +6089,9 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/dark_oak/dark_oak_swamp_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-04-20 03:18:47 +0000"
-    },
-    "done": true
-  },
   "mca:recipes/decorations/lime_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-04-20 03:14:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/wheat": {
-    "criteria": {
-      "has_hay_block": "2025-04-20 03:11:38 +0000"
     },
     "done": true
   },
@@ -6226,15 +6107,333 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-04-20 03:14:36 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-20 03:18:47 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-20 03:18:47 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/dark_oak_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-04-20 03:18:47 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/dark_oak_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-20 03:18:47 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/dark_oak": {
+    "criteria": {
+      "has_wood": "2025-04-20 03:18:47 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/dark_oak": {
+    "criteria": {
+      "has_wood": "2025-04-20 03:18:47 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-20 03:18:47 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-20 03:18:47 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-20 03:18:47 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/dark_oak": {
+    "criteria": {
+      "has_planks": "2025-04-20 03:18:47 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-20 03:18:47 +0000"
+    },
+    "done": true
+  },
+  "mcwstairs:recipes/dark_oak": {
+    "criteria": {
+      "has_planks": "2025-04-20 03:18:47 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-20 03:18:47 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-20 03:18:47 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-20 03:18:47 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-20 03:18:47 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-20 03:18:47 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_four_panel": {
+    "criteria": {
+      "has_logs": "2025-04-20 03:18:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-04-20 03:18:47 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-20 03:18:47 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/dark_oak/dark_oak_whispering_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-20 03:18:47 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+  "mcwtrpdoors:recipes/birch/birch_ranch_trapdoor": {
     "criteria": {
-      "has_beef": "2025-04-20 02:52:46 +0000"
+      "has_logs": "2025-04-20 03:21:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-04-20 03:21:17 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-20 03:21:17 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-20 03:21:17 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-20 03:21:17 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/birch": {
+    "criteria": {
+      "has_wood": "2025-04-20 03:21:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-04-20 03:21:17 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-20 03:21:17 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-20 03:21:17 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/birch": {
+    "criteria": {
+      "has_wood": "2025-04-20 03:21:17 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_paper": {
+    "criteria": {
+      "has_logs": "2025-04-20 03:21:17 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-20 03:21:17 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-20 03:21:17 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/birch": {
+    "criteria": {
+      "has_planks": "2025-04-20 03:21:17 +0000"
+    },
+    "done": true
+  },
+  "mcwstairs:recipes/birch": {
+    "criteria": {
+      "has_planks": "2025-04-20 03:21:17 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/birch_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-04-20 03:21:17 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-20 03:21:17 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-20 03:21:17 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-20 03:21:17 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-20 03:21:17 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/birch_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-20 03:21:17 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-20 03:21:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-04-20 03:51:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-04-20 03:51:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-04-20 03:51:35 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/end_stone_smelter": {
+    "criteria": {
+      "has_tag_c_furnaces": "2025-04-20 03:52:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-04-20 03:51:35 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/leather_to_stripes": {
+    "criteria": {
+      "has_leather": "2025-04-20 03:51:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-04-20 03:52:39 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2025-04-20 03:51:35 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2025-04-20 03:51:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-04-20 03:51:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-04-20 03:51:35 +0000"
     },
     "done": true
   },
