@@ -22057,3 +22057,121 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
 	... 29 more
+[02:17:47] [Netty Epoll Server IO #7/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at net.minecraft.class_3238.channelRead(class_3238.java:95) ~[server-intermediary.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2539.method_10783(class_2539.java:522) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2543.decode(class_2543.java:32) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
+	... 29 more
+[02:19:44] [Server thread/INFO]: Lula123[/127.85.197.67:43717] logged in with entity id 157 at (-57.35538796722902, 45.0, -1232.6344263709148)
+[02:19:44] [Server thread/INFO]: Syncing config to Lula123 (98bc60d0-314a-3a87-b776-a7bf57e236e2)
+[02:19:45] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[02:19:45] [Server thread/INFO]: [voicechat] Using Fabric Permissions API
+[02:19:45] [Server thread/INFO]: Lula123 joined the game
+[02:19:45] [Server thread/INFO]: Sending common config 'fallingtrees:fallingtrees_common' to Lula123
+[02:19:45] [Server thread/INFO]: Updating all forceload tickets for 98bc60d0-314a-3a87-b776-a7bf57e236e2
+[02:19:45] [Server thread/INFO]: Replacing apoli:replaced_loot_table with null
+[02:19:46] [Netty Epoll Server IO #1/INFO]: Received client config 'fallingtrees:fallingtrees_client' from Lula123
+[02:19:46] [Netty Epoll Server IO #1/INFO]: Priority overwritten for player Lula123. Claiming: GRAVE / Robbing: INVENTORY
+[02:19:46] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[02:19:46] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[02:19:46] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[02:19:46] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[02:19:46] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[02:19:46] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[02:19:46] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[02:19:46] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[02:19:46] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[02:19:46] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[02:19:46] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[02:19:46] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[02:19:46] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[02:19:46] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[02:19:46] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[02:19:46] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[02:19:46] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[02:19:46] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/CuchiLand/servidor_minecraft/bclib-sync (allowDelete=true)
+[02:19:47] [Server thread/INFO]: [voicechat] Received secret request of Lula123 (18)
+[02:19:47] [Server thread/INFO]: [voicechat] Sent secret to Lula123
+[02:19:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2305ms or 46 ticks behind
+[02:19:47] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of Lula123 accepted server config.
+[02:19:50] [Server thread/WARN]: UUID of added entity already exists: SparrowEntity['Sparrow'/387, l='ServerLevel[world]', x=8.82, y=78.00, z=-1345.52]
+[02:19:50] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 98bc60d0-314a-3a87-b776-a7bf57e236e2
+[02:19:51] [Server thread/WARN]: UUID of added entity already exists: LarkEntity['Lark'/478, l='ServerLevel[world]', x=-224.01, y=107.88, z=-1214.29]
+[02:19:51] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 98bc60d0-314a-3a87-b776-a7bf57e236e2
+[02:19:51] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Lula123 (98bc60d0-314a-3a87-b776-a7bf57e236e2) successfully connected to voice chat
+[02:20:02] [Worker-Main-6/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;1949504295,275860877,-1925964201,-719011334],type:"minecraft:entity",y_offset:0.36f}}]
+[02:20:02] [Worker-Main-6/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;-88314378,-629718797,-1822809685,-214951148],type:"minecraft:entity",y_offset:0.36f}}]
+[02:20:04] [Server thread/WARN]: UUID of added entity already exists: class_1472['Sheep'/565, l='ServerLevel[world]', x=-224.05, y=134.00, z=-1025.50]
+[02:20:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3638ms or 72 ticks behind
+[02:23:54] [Server thread/INFO]: Titu[/127.189.205.186:42629] logged in with entity id 1538 at (-38.07517014957347, 75.0, -627.1691944993751)
+[02:23:54] [Server thread/INFO]: Syncing config to Titu (8130d461-ea5b-33f5-816e-9c7ded89800e)
+[02:23:54] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[02:23:54] [Server thread/INFO]: Titu joined the game
+[02:23:54] [Server thread/INFO]: Sending common config 'fallingtrees:fallingtrees_common' to Titu
+[02:23:54] [Server thread/INFO]: Updating all forceload tickets for 8130d461-ea5b-33f5-816e-9c7ded89800e
+[02:23:54] [Server thread/INFO]: Replacing apoli:replaced_loot_table with null
+[02:23:57] [Netty Epoll Server IO #3/INFO]: Received client config 'fallingtrees:fallingtrees_client' from Titu
+[02:23:57] [Netty Epoll Server IO #3/INFO]: Priority overwritten for player Titu. Claiming: GRAVE / Robbing: INVENTORY
+[02:23:57] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[02:23:57] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[02:23:57] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[02:23:57] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[02:23:57] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[02:23:57] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[02:23:57] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[02:23:57] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[02:23:57] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[02:23:57] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[02:23:57] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[02:23:57] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[02:23:57] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[02:23:57] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[02:23:57] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[02:23:57] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[02:23:57] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[02:23:57] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/CuchiLand/servidor_minecraft/bclib-sync (allowDelete=true)
+[02:23:57] [Server thread/INFO]: [voicechat] Received secret request of Titu (18)
+[02:23:57] [Server thread/INFO]: [voicechat] Sent secret to Titu
+[02:23:58] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Titu accepted server config.
+[02:24:05] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 8130d461-ea5b-33f5-816e-9c7ded89800e
+[02:24:06] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 8130d461-ea5b-33f5-816e-9c7ded89800e
+[02:24:06] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Titu (8130d461-ea5b-33f5-816e-9c7ded89800e) successfully connected to voice chat
