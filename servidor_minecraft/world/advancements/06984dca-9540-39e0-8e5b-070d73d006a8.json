@@ -81,6 +81,7 @@
     "criteria": {
       "minecraft:birch_forest": "2025-04-19 02:17:40 +0000",
       "minecraft:beach": "2025-04-18 03:43:51 +0000",
+      "minecraft:sparse_jungle": "2025-04-20 23:35:37 +0000",
       "minecraft:river": "2025-04-19 00:52:07 +0000",
       "minecraft:forest": "2025-04-19 02:13:55 +0000",
       "minecraft:ocean": "2025-04-18 04:03:01 +0000",
@@ -6343,7 +6344,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-20 23:31:12 +0000"
+      "log_spam_fixer": "2025-04-20 23:37:12 +0000"
     },
     "done": false
   },
@@ -6433,7 +6434,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-04-20 23:31:12 +0000"
+      "log_spam_fixer": "2025-04-20 23:37:12 +0000"
     },
     "done": false
   },
@@ -6457,7 +6458,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-04-20 23:31:12 +0000"
+      "log_spam_fixer": "2025-04-20 23:37:12 +0000"
     },
     "done": false
   },
@@ -6481,7 +6482,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-20 23:31:12 +0000"
+      "log_spam_fixer": "2025-04-20 23:37:12 +0000"
     },
     "done": false
   },
@@ -6499,7 +6500,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-04-20 23:31:12 +0000"
+      "log_spam_fixer": "2025-04-20 23:37:12 +0000"
     },
     "done": false
   },
@@ -6529,7 +6530,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-20 23:31:12 +0000"
+      "log_spam_fixer": "2025-04-20 23:37:12 +0000"
     },
     "done": false
   },
@@ -6571,19 +6572,19 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-20 23:31:12 +0000"
+      "log_spam_fixer": "2025-04-20 23:37:12 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-20 23:31:12 +0000"
+      "log_spam_fixer": "2025-04-20 23:37:12 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-04-20 23:31:12 +0000"
+      "log_spam_fixer": "2025-04-20 23:37:12 +0000"
     },
     "done": false
   },
@@ -6667,9 +6668,10 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-04-20 23:31:12 +0000"
+      "requirement": "2025-04-20 23:37:15 +0000",
+      "log_spam_fixer": "2025-04-20 23:37:12 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/tools/spyglass": {
     "criteria": {
@@ -6721,7 +6723,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-20 23:31:12 +0000"
+      "log_spam_fixer": "2025-04-20 23:37:12 +0000"
     },
     "done": false
   },
@@ -6745,7 +6747,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-20 23:31:12 +0000"
+      "log_spam_fixer": "2025-04-20 23:37:12 +0000"
     },
     "done": false
   },

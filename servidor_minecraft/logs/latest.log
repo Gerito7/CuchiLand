@@ -22185,3 +22185,14 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 [23:33:30] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of Titu accepted server config.
 [23:34:21] [Server thread/INFO]: ramaasdas claimed a grave belonging to ramaasdas at -463, 78, -1834, minecraft:overworld
 [23:34:46] [Server thread/INFO]: ramaasdas claimed a grave belonging to ramaasdas at -538, 74, -1876, minecraft:overworld
+[23:37:22] [Server thread/INFO]: ramaasdas was struck with lightning by Lightning Dragon
+[23:37:26] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of ramaasdas accepted server config.
+[23:37:29] [Server thread/INFO]: ramaasdas lost connection: Disconnected
+[23:37:29] [Server thread/INFO]: ramaasdas left the game
+[23:37:29] [Server thread/INFO]: Updating all forceload tickets for 06984dca-9540-39e0-8e5b-070d73d006a8
+[23:37:29] [Server thread/INFO]: [voicechat] Disconnecting client ramaasdas
+[23:39:13] [Server thread/INFO]: Titu claimed a grave belonging to Titu at -94, 78, -1586, minecraft:overworld
+[23:39:14] [Server thread/INFO]: Titu lost connection: Disconnected
+[23:39:14] [Server thread/INFO]: Titu left the game
+[23:39:14] [Server thread/INFO]: Updating all forceload tickets for 8130d461-ea5b-33f5-816e-9c7ded89800e
+[23:39:14] [Server thread/INFO]: [voicechat] Disconnecting client Titu
