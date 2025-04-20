@@ -22064,3 +22064,15 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
 	... 29 more
+[23:12:31] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=385, y=72, z=-1596} class_2338{x=387, y=71, z=-1597}
+[23:12:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=385, y=72, z=-1596} class_2338{x=387, y=71, z=-1597}
+[23:12:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=385, y=72, z=-1596} class_2338{x=387, y=71, z=-1597}
+[23:12:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=385, y=72, z=-1596} class_2338{x=387, y=71, z=-1597}
+[23:12:34] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=394, y=75, z=-1602} class_2338{x=396, y=74, z=-1600}
+[23:12:34] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=394, y=75, z=-1602} class_2338{x=396, y=74, z=-1600}
+[23:12:34] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=394, y=75, z=-1602} class_2338{x=396, y=74, z=-1600}
+[23:12:34] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=394, y=75, z=-1602} class_2338{x=396, y=74, z=-1600}
+[23:12:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=380, y=72, z=-1620} class_2338{x=381, y=70, z=-1619}
+[23:12:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=379, y=72, z=-1620} class_2338{x=381, y=70, z=-1619}
+[23:12:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=380, y=73, z=-1620} class_2338{x=381, y=70, z=-1619}
+[23:12:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=380, y=73, z=-1620} class_2338{x=381, y=70, z=-1619}
