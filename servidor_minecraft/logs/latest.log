@@ -22371,3 +22371,106 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [04:33:40] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 957d3e0c-502d-3ac9-81d7-a5ab730cd62b
 [04:33:41] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 957d3e0c-502d-3ac9-81d7-a5ab730cd62b
 [04:33:41] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Polarrr_ (957d3e0c-502d-3ac9-81d7-a5ab730cd62b) successfully connected to voice chat
+[04:38:33] [Server thread/WARN]: Polarrr_ moved wrongly!
+[04:42:05] [Server thread/INFO]: Polarrr_ hit the ground too hard whilst trying to escape Skeleton
+[04:42:08] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Polarrr_ accepted server config.
+[04:42:12] [Server thread/INFO]: Polarrr_ claimed a grave belonging to Polarrr_ at -4021, 110, 2725, minecraft:overworld
+[04:45:28] [Server thread/WARN]: Polarrr_ was kicked for floating too long!
+[04:45:29] [Server thread/INFO]: Polarrr_ lost connection: Flying is not enabled on this server
+[04:45:29] [Server thread/INFO]: Polarrr_ left the game
+[04:45:29] [Server thread/INFO]: Updating all forceload tickets for 957d3e0c-502d-3ac9-81d7-a5ab730cd62b
+[04:45:29] [Server thread/INFO]: [voicechat] Disconnecting client Polarrr_
+[04:45:33] [Server thread/INFO]: Polarrr_[/127.55.245.64:54679] logged in with entity id 26431 at (-4018.431651361295, 154.3920938518402, 2720.919007366389)
+[04:45:33] [Server thread/INFO]: Syncing config to Polarrr_ (957d3e0c-502d-3ac9-81d7-a5ab730cd62b)
+[04:45:33] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[04:45:33] [Server thread/INFO]: Polarrr_ joined the game
+[04:45:33] [Server thread/INFO]: Sending common config 'fallingtrees:fallingtrees_common' to Polarrr_
+[04:45:33] [Server thread/INFO]: Updating all forceload tickets for 957d3e0c-502d-3ac9-81d7-a5ab730cd62b
+[04:45:33] [Server thread/INFO]: Replacing apoli:replaced_loot_table with null
+[04:45:33] [Netty Epoll Server IO #4/ERROR]: Error receiving packet 23
+io.netty.util.IllegalReferenceCountException: refCnt: 0
+	at io.netty.buffer.AbstractByteBuf.ensureAccessible(AbstractByteBuf.java:1454) ~[netty-buffer-4.1.82.Final.jar:?]
+	at io.netty.buffer.AbstractByteBuf.checkIndex(AbstractByteBuf.java:1383) ~[netty-buffer-4.1.82.Final.jar:?]
+	at io.netty.buffer.UnpooledHeapByteBuf.copy(UnpooledHeapByteBuf.java:534) ~[netty-buffer-4.1.82.Final.jar:?]
+	at io.netty.buffer.AbstractByteBuf.copy(AbstractByteBuf.java:1194) ~[netty-buffer-4.1.82.Final.jar:?]
+	at net.minecraft.class_2540.copy(class_2540.java:1628) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2540.copy(class_2540.java:1628) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2658.method_11052(class_2658.java:55) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2545.method_10838(class_2545.java:45) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2545.encode(class_2545.java:14) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:717) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:709) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:792) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:702) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:113) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:717) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:764) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:790) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:758) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:808) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1025) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:306) ~[netty-transport-4.1.82.Final.jar:?]
+	at net.minecraft.class_2535.method_36942(class_2535.java:220) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2535.method_10761(class_2535.java:212) ~[server-intermediary.jar:?]
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:174) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:167) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:406) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[04:47:18] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 8130d461-ea5b-33f5-816e-9c7ded89800e timed out
+[04:46:41] [Netty Epoll Server IO #5/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[04:47:31] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Titu
+[04:45:33] [Netty Epoll Server IO #4/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.codec.EncoderException: io.netty.util.IllegalReferenceCountException: refCnt: 0
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:125) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:717) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:709) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:792) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:702) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:113) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:717) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:764) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:790) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:758) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:808) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1025) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:306) ~[netty-transport-4.1.82.Final.jar:?]
+	at net.minecraft.class_2535.method_36942(class_2535.java:220) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2535.method_10761(class_2535.java:212) ~[server-intermediary.jar:?]
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:174) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:167) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:406) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: io.netty.util.IllegalReferenceCountException: refCnt: 0
+	at io.netty.buffer.AbstractByteBuf.ensureAccessible(AbstractByteBuf.java:1454) ~[netty-buffer-4.1.82.Final.jar:?]
+	at io.netty.buffer.AbstractByteBuf.checkIndex(AbstractByteBuf.java:1383) ~[netty-buffer-4.1.82.Final.jar:?]
+	at io.netty.buffer.UnpooledHeapByteBuf.copy(UnpooledHeapByteBuf.java:534) ~[netty-buffer-4.1.82.Final.jar:?]
+	at io.netty.buffer.AbstractByteBuf.copy(AbstractByteBuf.java:1194) ~[netty-buffer-4.1.82.Final.jar:?]
+	at net.minecraft.class_2540.copy(class_2540.java:1628) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2540.copy(class_2540.java:1628) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2658.method_11052(class_2658.java:55) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2545.method_10838(class_2545.java:45) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2545.encode(class_2545.java:14) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.82.Final.jar:?]
+	... 21 more
+[04:46:41] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@754136ee[id=957d3e0c-502d-3ac9-81d7-a5ab730cd62b,name=Polarrr_,properties={},legacy=false] (/127.55.245.64:36435): Took too long to log in
+[04:47:31] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Titu
+[04:47:31] [Server thread/INFO]: com.mojang.authlib.GameProfile@754136ee[id=957d3e0c-502d-3ac9-81d7-a5ab730cd62b,name=Polarrr_,properties={},legacy=false] (/127.55.245.64:36435) lost connection: Timed out
+[04:47:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 50487ms or 1009 ticks behind
+[04:47:31] [Server thread/INFO]: Titu lost connection: Disconnected
+[04:47:31] [Server thread/INFO]: Titu left the game
+[04:47:31] [Server thread/INFO]: Updating all forceload tickets for 8130d461-ea5b-33f5-816e-9c7ded89800e
+[04:47:31] [Server thread/INFO]: [voicechat] Disconnecting client Titu
+[04:47:31] [Server thread/INFO]: Polarrr_ lost connection: Internal Exception: io.netty.handler.codec.EncoderException: io.netty.util.IllegalReferenceCountException: refCnt: 0
+[04:47:31] [Server thread/INFO]: Polarrr_ left the game
+[04:47:31] [Server thread/INFO]: Updating all forceload tickets for 957d3e0c-502d-3ac9-81d7-a5ab730cd62b
+[04:47:31] [Server thread/INFO]: [voicechat] Disconnecting client Polarrr_
+[04:47:31] [Server thread/WARN]: handleDisconnection() called twice
+[04:47:31] [Server thread/INFO]: com.mojang.authlib.GameProfile@635f7f4c[id=<null>,name=Polarrr_,properties={},legacy=false] (/127.55.245.64:57549) lost connection: Disconnected
