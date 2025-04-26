@@ -24657,3 +24657,87 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 [04:32:32] [Worker-Main-3/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
 [04:32:32] [Worker-Main-3/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
 [04:32:32] [Worker-Main-3/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[04:33:39] [Netty Epoll Server IO #3/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2539.method_10783(class_2539.java:522) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2543.decode(class_2543.java:32) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
+	... 25 more
+[04:34:47] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 71f92966-9de7-3a64-9d65-f06e6711b873 timed out
+[04:36:12] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Benja
+[04:34:06] [Server thread/INFO]: Benja was slain by Spider
+[04:35:06] [Server Watchdog/ERROR]: A single server tick took 60.00 seconds (should be max 0.05)
+[04:36:12] [Server Watchdog/ERROR]: Considering it to be crashed, server will forcibly shutdown.
+[04:36:12] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Benja
+[04:36:12] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 8130d461-ea5b-33f5-816e-9c7ded89800e timed out
+[04:36:12] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Titu
+[04:36:12] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Titu
+[04:36:12] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 06984dca-9540-39e0-8e5b-070d73d006a8 timed out
+[04:36:12] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player ramaasdas
+[04:36:12] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to ramaasdas
+[04:36:13] [Server thread/INFO]: Titu lost connection: Disconnected
+[04:36:13] [Server thread/INFO]: Titu left the game
+[04:36:13] [Server thread/INFO]: Updating all forceload tickets for 8130d461-ea5b-33f5-816e-9c7ded89800e
+[04:36:13] [Server thread/INFO]: [voicechat] Disconnecting client Titu
+[04:36:13] [Server thread/INFO]: ramaasdas lost connection: Disconnected
+[04:36:13] [Server thread/INFO]: ramaasdas left the game
+[04:36:13] [Server thread/INFO]: Updating all forceload tickets for 06984dca-9540-39e0-8e5b-070d73d006a8
+[04:36:13] [Server thread/INFO]: [voicechat] Disconnecting client ramaasdas
+[04:36:13] [Server Watchdog/ERROR]: This crash report has been saved to: /workspaces/CuchiLand/servidor_minecraft/./crash-reports/crash-2025-04-26_04.36.13-server.txt
+[04:36:13] [Server thread/INFO]: Benja lost connection: Disconnected
+[04:36:13] [Server thread/INFO]: Benja left the game
+[04:36:13] [Server thread/INFO]: Updating all forceload tickets for 71f92966-9de7-3a64-9d65-f06e6711b873
+[04:36:13] [Server thread/INFO]: [voicechat] Disconnecting client Benja
+[04:36:13] [Server thread/INFO]: com.mojang.authlib.GameProfile@56271360[id=<null>,name=Benja,properties={},legacy=false] (/127.158.19.26:51203) lost connection: Disconnected
+[04:36:13] [Server thread/INFO]: com.mojang.authlib.GameProfile@65e9705c[id=<null>,name=Titu,properties={},legacy=false] (/127.189.205.186:54183) lost connection: Disconnected
+[04:36:13] [Server thread/INFO]: com.mojang.authlib.GameProfile@6309136d[id=<null>,name=ramaasdas,properties={},legacy=false] (/127.162.4.220:56307) lost connection: Disconnected
+[04:36:13] [Server thread/INFO]: com.mojang.authlib.GameProfile@f3a7a03[id=<null>,name=Titu,properties={},legacy=false] (/127.189.205.186:56205) lost connection: Disconnected
+[04:36:13] [Server thread/INFO]: com.mojang.authlib.GameProfile@6168c497[id=<null>,name=Titu,properties={},legacy=false] (/127.189.205.186:33109) lost connection: Disconnected
+[04:36:13] [Server thread/INFO]: Stopping server
+[04:36:13] [Server thread/INFO]: Saving players
+[04:36:13] [Server thread/INFO]: Saving worlds
+[04:36:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04:36:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/iceandfire:dread_land
+[04:36:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[04:36:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[04:36:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:36:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (dread_land): All chunks are saved
+[04:36:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:36:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:36:16] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[04:36:16] [Server thread/INFO]: Stopping IO worker...
+[04:36:16] [Server thread/INFO]: Stopped IO worker!
