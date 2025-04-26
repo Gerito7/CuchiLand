@@ -79,6 +79,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2025-04-26 03:57:54 +0000",
       "minecraft:birch_forest": "2025-04-19 01:27:31 +0000",
       "minecraft:beach": "2025-04-18 03:43:33 +0000",
       "minecraft:river": "2025-04-19 01:19:11 +0000",
