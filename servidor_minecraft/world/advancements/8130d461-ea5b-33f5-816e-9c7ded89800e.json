@@ -79,18 +79,23 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-04-28 04:55:57 +0000",
       "minecraft:taiga": "2025-04-26 04:32:02 +0000",
       "minecraft:deep_ocean": "2025-04-26 03:57:54 +0000",
       "minecraft:birch_forest": "2025-04-19 01:27:31 +0000",
       "minecraft:beach": "2025-04-18 03:43:33 +0000",
       "minecraft:river": "2025-04-19 01:19:11 +0000",
       "minecraft:lukewarm_ocean": "2025-04-20 23:23:31 +0000",
+      "minecraft:stony_shore": "2025-04-28 04:30:11 +0000",
       "minecraft:cold_ocean": "2025-04-19 01:35:53 +0000",
       "minecraft:forest": "2025-04-19 01:26:53 +0000",
       "minecraft:lush_caves": "2025-04-28 03:20:13 +0000",
       "minecraft:deep_cold_ocean": "2025-04-26 04:13:12 +0000",
+      "minecraft:frozen_ocean": "2025-04-28 04:56:44 +0000",
+      "minecraft:deep_frozen_ocean": "2025-04-28 04:57:11 +0000",
       "minecraft:ocean": "2025-04-18 04:03:02 +0000",
       "minecraft:jungle": "2025-04-20 23:17:37 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-04-28 04:22:12 +0000",
       "minecraft:windswept_savanna": "2025-04-18 03:59:32 +0000",
       "minecraft:flower_forest": "2025-04-19 02:26:14 +0000",
       "minecraft:plains": "2025-04-19 01:23:30 +0000"
@@ -2313,6 +2318,7 @@
       "highland": "2025-04-20 04:57:27 +0000",
       "jacaranda_glade": "2025-04-19 03:06:40 +0000",
       "marsh": "2025-04-19 02:46:53 +0000",
+      "cold_desert": "2025-04-28 04:52:15 +0000",
       "maple_woods": "2025-04-19 01:28:52 +0000",
       "orchard": "2025-04-19 01:28:46 +0000",
       "field": "2025-04-26 04:27:13 +0000",
@@ -2326,6 +2332,7 @@
       "lavender_field": "2025-04-19 02:31:30 +0000",
       "prairie": "2025-04-19 02:25:16 +0000",
       "grassland": "2025-04-20 23:13:11 +0000",
+      "snowy_fir_clearing": "2025-04-28 04:52:10 +0000",
       "rainforest": "2025-04-20 23:15:42 +0000",
       "crag": "2025-04-19 01:19:49 +0000",
       "ominous_woods": "2025-04-26 04:16:20 +0000"
@@ -3915,6 +3922,7 @@
       "minecraft:pillager": "2025-04-20 03:15:15 +0000",
       "minecraft:skeleton": "2025-04-20 04:20:17 +0000",
       "minecraft:hoglin": "2025-04-20 03:27:22 +0000",
+      "minecraft:vindicator": "2025-04-28 20:50:02 +0000",
       "minecraft:spider": "2025-04-19 01:52:49 +0000",
       "minecraft:husk": "2025-04-26 04:19:39 +0000",
       "minecraft:zombie": "2025-04-19 01:43:55 +0000"
@@ -7593,77 +7601,65 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
-      "log_spam_fixer": "2025-04-28 04:05:26 +0000"
+      "has_lapis_lazuli": "2025-04-28 04:17:24 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "minecraft:recipes/misc/blue_dye": {
     "criteria": {
-      "log_spam_fixer": "2025-04-28 04:05:26 +0000"
+      "has_lapis_lazuli": "2025-04-28 04:17:24 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
-      "log_spam_fixer": "2025-04-28 04:05:26 +0000"
+      "has_raw_iron": "2025-04-28 04:17:38 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
-      "log_spam_fixer": "2025-04-28 04:05:26 +0000"
+      "has_raw_iron": "2025-04-28 04:17:38 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
-      "log_spam_fixer": "2025-04-28 04:05:26 +0000"
+      "has_raw_iron": "2025-04-28 04:17:38 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "minecraft:story/iron_tools": {
     "criteria": {
-      "log_spam_fixer": "2025-04-28 04:05:26 +0000"
+      "iron_pickaxe": "2025-04-28 04:24:57 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "betternether:recipes/building_blocks/basalt_brick_slabs_from_smooth_stonecutting": {
     "criteria": {
-      "log_spam_fixer": "2025-04-28 04:05:26 +0000"
+      "has_block.minecraft.smooth_basalt": "2025-04-28 04:39:51 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "betternether:recipes/building_blocks/basalt_brick_wall_from_smooth_stonecutting": {
     "criteria": {
-      "log_spam_fixer": "2025-04-28 04:05:26 +0000"
+      "has_block.minecraft.smooth_basalt": "2025-04-28 04:39:51 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "betternether:recipes/building_blocks/basalt_brick_from_smooth_stonecutting": {
     "criteria": {
-      "log_spam_fixer": "2025-04-28 04:05:26 +0000"
+      "has_block.minecraft.smooth_basalt": "2025-04-28 04:39:51 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "betternether:recipes/building_blocks/basalt_brick_stairs_from_smooth_stonecutting": {
     "criteria": {
-      "log_spam_fixer": "2025-04-28 04:05:26 +0000"
+      "has_block.minecraft.smooth_basalt": "2025-04-28 04:39:51 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-28 04:05:26 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-28 04:05:26 +0000"
-    },
-    "done": false
+    "done": true
   },
   "DataVersion": 3465
 }
