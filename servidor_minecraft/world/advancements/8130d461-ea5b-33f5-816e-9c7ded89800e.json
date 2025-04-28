@@ -96,8 +96,10 @@
       "minecraft:ocean": "2025-04-18 04:03:02 +0000",
       "minecraft:jungle": "2025-04-20 23:17:37 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-04-28 04:22:12 +0000",
+      "minecraft:snowy_beach": "2025-04-28 20:56:08 +0000",
       "minecraft:windswept_savanna": "2025-04-18 03:59:32 +0000",
       "minecraft:flower_forest": "2025-04-19 02:26:14 +0000",
+      "minecraft:windswept_gravelly_hills": "2025-04-28 20:59:57 +0000",
       "minecraft:plains": "2025-04-19 01:23:30 +0000"
     },
     "done": false
@@ -2333,6 +2335,7 @@
       "prairie": "2025-04-19 02:25:16 +0000",
       "grassland": "2025-04-20 23:13:11 +0000",
       "snowy_fir_clearing": "2025-04-28 04:52:10 +0000",
+      "tundra": "2025-04-28 20:56:14 +0000",
       "rainforest": "2025-04-20 23:15:42 +0000",
       "crag": "2025-04-19 01:19:49 +0000",
       "ominous_woods": "2025-04-26 04:16:20 +0000"
@@ -2935,6 +2938,7 @@
       "golden_apple": "2025-04-26 04:24:28 +0000",
       "suspicious_stew": "2025-04-19 02:29:25 +0000",
       "salmon": "2025-04-19 01:31:57 +0000",
+      "cod": "2025-04-28 20:56:03 +0000",
       "cooked_salmon": "2025-04-20 02:31:06 +0000"
     },
     "done": false
@@ -7658,6 +7662,48 @@
   "betternether:recipes/building_blocks/basalt_brick_stairs_from_smooth_stonecutting": {
     "criteria": {
       "has_block.minecraft.smooth_basalt": "2025-04-28 04:39:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-28 20:59:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "red_mushroom": "2025-04-28 20:59:57 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-04-28 20:51:56 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/food/stalagnate_bowl_mushroom": {
+    "criteria": {
+      "has_red_mushroom": "2025-04-28 20:59:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-28 20:59:55 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/wall_red_brown": {
+    "criteria": {
+      "has_red_mushroom": "2025-04-28 20:59:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-04-28 20:59:55 +0000"
     },
     "done": true
   },
